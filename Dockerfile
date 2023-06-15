@@ -11,7 +11,7 @@ RUN wget --quiet "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VER
 
 COPY ./ /site
 WORKDIR /site
-RUN hugo -b "https://hugo-starter.textbooks.cs.ksu.edu"
+RUN hugo -b "https://alt.cs.ksu.edu"
 
 #Copy static files to Nginx
 FROM nginx:alpine

@@ -3,4 +3,4 @@ archetype = "home"
 title = ""
 +++
 
-Lorem Ipsum.
+Welcome to the Advancing Learning and Teaching in Computer Science (ALT+CS) Lab!
