@@ -13,9 +13,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/altcs/categories/</loc>
+    <loc>https://alt-cs-lab.github.io/categories/</loc>
   </url>
   <url>
-    <loc>https://ksu-cs-textbooks.github.io/altcs/tags/</loc>
+    <loc>https://alt-cs-lab.github.io/tags/</loc>
   </url>
 </urlset>
