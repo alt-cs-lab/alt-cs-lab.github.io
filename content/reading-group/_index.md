@@ -78,8 +78,8 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 ###### CS0 vs. CS1: Understanding Fears and Confidence amongst Non-majors in Introductory CS Courses
 
 * [Paper Link](https://dl.acm.org/doi/10.1145/3545945.3569865)
-* Review
-* Slides
+* [Review](files/summer2023/2-hogan_li_soosai_raj.pdf)
+* [Slides](files/summer2023/2-hogan_li_soosai_raj.pptx)
 
 **Abstract**
 
