@@ -15,7 +15,8 @@ The K-State Advancing Learning & Teaching in Computer Science (ALT+CS) Lab is pr
   * Parking passes are available for registrants who requested one. Parking can be found in lot A28 to the north of the Engineering Complex and also lot D1 to the west of Memorial Stadium.
 * **Meals**
   * Breakfast is provided through the hotel for hotel guests.
-  * Lunch is provided as part of the conference
+  * We have coffee and snacks available in the morning break, but there probably won't be coffee available during check-in (feel free to bring your own!).
+  * Lunch is provided each day.
   * Dinner is on your own (we will help coordinate groups that want to continue discussions)
   * Meals on your own will be covered under per diem.
 
