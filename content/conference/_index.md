@@ -13,6 +13,7 @@ The K-State Advancing Learning & Teaching in Computer Science (ALT+CS) Lab is pr
 * **Parking**
   * Hotel guests have free parking at the conference hotel. The conference is a short 10 minute walk to the Engineering Complex.
   * Parking passes are available for registrants who requested one. Parking can be found in lot A28 to the north of the Engineering Complex and also lot D1 to the west of Memorial Stadium.
+  * Unfortunately, we **CAN NOT** reimburse anyone for parking in the K-State parking garage. 
 * **Meals**
   * Breakfast is provided through the hotel for hotel guests.
   * We have coffee and snacks available in the morning break, but there probably won't be coffee available during check-in (feel free to bring your own!).
@@ -24,7 +25,9 @@ The K-State Advancing Learning & Teaching in Computer Science (ALT+CS) Lab is pr
     * K-State requires a W-9 form from anyone requesting reimbursement. We only need the first page. **It must be signed!**
   * [Expense Report](files/expense-report.pdf) - please fill out and upload ASAP after end of conference. Attach the following items:
     * Itemized receipt (folio) from the hotel after checkout.
-    * Round-trip map from your home to the hotel for mileage. (Hint: add your home as the starting point, hotel as the first stop, and then home as a second stop to get round-trip mileage in one map).
+    * Round-trip map from your home to the hotel for mileage. 
+      * Hint: add your home as the starting point, hotel as the first stop, and then home as a second stop to get round-trip mileage in one map.
+      * We can only reimburse mileage for a _personal vehicle_. If you choose to drive a school district vehicle (or similar), mileage will **NOT** be reimbursed. 
     * Itemized receipts for meals are **NOT** required for reimbursement. Meals will be reimbursed based on per diem.
   * [Upload Files Here](https://www.cs.ksu.edu/secure_file_upload.html)
 
@@ -37,22 +40,22 @@ See below for helpful maps of the K-State Campus and the Engineering complex.
   * 3:00 PM - Hotel check-in
   * Dinner on your own
 * **Thursday 6/22** - Workshop Day 1
-  * 8:30 AM - Arrive at Engineering Complex & Check-in
-  * 9:00 AM - Workshop Begins
-  * 11:45 AM - Lunch
-  * 4:00 PM - Workshop Ends
+  * 8:30 AM - Arrive at Engineering Complex & Check-in (Atrium)
+  * 9:00 AM - Workshop Begins (DUE 1116)
+  * 11:45 AM - Lunch (DUE 1116)
+  * 4:00 PM - Workshop Ends (DUE 1116)
   * Dinner on your own
 * **Friday 6/23** - Workshop Day 2
-  * 8:30 AM - Arrive at Engineering Complex & Check-in
-  * 9:00 AM - Workshop Begins
-  * 11:45 AM - Lunch
-  * 4:00 PM - Workshop Ends
+  * 8:30 AM - Arrive at Engineering Complex & Check-in (Atrium)
+  * 9:00 AM - Workshop Begins (DUE 1116)
+  * 11:45 AM - Lunch (DUE 1116)
+  * 4:00 PM - Workshop Ends (DUE 1116)
   * Dinner on your own
 * **Saturday 6/24** - Kansas CSTA Conference
-  * 8:30 AM - Arrive at Engineering Complex & Check-in
-  * 9:00 AM - Opening Keynote
-  * 11:45 AM - Lunch
-  * 4:00 PM - Conference Ends
+  * 8:30 AM - Arrive at Engineering Complex & Check-in (Atrium)
+  * 9:00 AM - Opening Keynote (DUE 1109)
+  * 11:45 AM - Lunch (Atrium)
+  * 4:00 PM - Conference Ends (DUE 1109)
 
 ## Detailed Schedule
 
