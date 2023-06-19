@@ -9,7 +9,7 @@ The K-State Advancing Learning & Teaching in Computer Science (ALT+CS) Lab is pr
 ## Travel & Logistics
 
 * **Conference Hotel**: [Holiday Inn Manhattan At the Campus](https://www.ihg.com/holidayinn/hotels/us/en/manhattan/manhi/hoteldetail)
-  * Hotel reservations have been handled through the RSVP process. Make sure you get a printed receipt after checkout!
+  * Hotel reservations have been handled through the RSVP process. Make sure you get an itemized receipt after checkout!
 * **Parking**
   * Hotel guests have free parking at the conference hotel. The conference is a short 10 minute walk to the Engineering Complex.
   * Parking passes are available for registrants who requested one. Parking can be found in lot A28 to the north of the Engineering Complex and also lot D1 to the west of Memorial Stadium.
@@ -19,6 +19,13 @@ The K-State Advancing Learning & Teaching in Computer Science (ALT+CS) Lab is pr
   * Lunch is provided each day.
   * Dinner is on your own (we will help coordinate groups that want to continue discussions)
   * Meals on your own will be covered under per diem.
+* **Reimbursement**
+  * [W-9 Form](files/irs-w9-highlighted.pdf) - please fill out and upload before conference (or bring it with you)
+    * K-State requires a W-9 form from anyone requesting reimbursement. We only need the first page. **It must be signed physically or digitally**
+  * [Expense Report](files/expense-report.pdf) - please fill out and upload ASAP after end of conference
+    * Keep **itemized** receipts for everything being reimbursed (hotel, parking, meals, etc.). When in doubt, **get a receipt!**
+  * [Upload Files Here](https://www.cs.ksu.edu/secure_file_upload.html)
+
 
 See below for helpful maps of the K-State Campus and the Engineering complex.
 
@@ -102,7 +109,7 @@ _Note: BOF is shorthand for "Birds of a Feather" - an informal discussion group 
 | _10:30-10:45AM_ | | | | | _Break_ |
 | 10:45-11:45AM | AP Exam Preparation (Perla Weaver) | Experiences in CS: A Student Perspective (Panel) | Embedding CS in Early Elementary (Nathan Bean) | | |
 | _11:45AM-1:15PM_ |  | | | | _Working Lunch_<br>The State of CS in Kansas |
-| 1:15-1:45PM | Science & CS (David Allen) | Agriculture & CS (Ivan Grijalva) | BOF: Early Elementary (Nathan Bean) | BOF: High School (Russ Feldhausen) | |
+| 1:15-1:45PM | Science & CS (J.T. Laverty) | Agriculture & CS (Ivan Grijalva) | BOF: Early Elementary (Nathan Bean) | BOF: High School (Russ Feldhausen) | |
 | 1:45-2:15PM | Math & CS (David Allen) | Social Science & CS (Michael Flynn) | BOF: Middle Elementary (Nathan Bean) | BOF: High School (Russ Feldhausen) | |
 | _2:15-2:30PM_ | | | | | _Break_ |
 | 2:30-3:00PM | BOF: Student Recruitment (Josh Weese) | BOF: First Robotics (Nathan Bean) | BOF: CTE Pathways (Russ Feldhausen) | | |
