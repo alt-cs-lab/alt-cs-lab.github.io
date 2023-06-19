@@ -18,12 +18,14 @@ The K-State Advancing Learning & Teaching in Computer Science (ALT+CS) Lab is pr
   * We have coffee and snacks available in the morning break, but there probably won't be coffee available during check-in (feel free to bring your own!).
   * Lunch is provided each day.
   * Dinner is on your own (we will help coordinate groups that want to continue discussions)
-  * Meals on your own will be covered under per diem.
+  * Meals on your own will be reimbursed based on per diem.
 * **Reimbursement**
-  * [W-9 Form](files/irs-w9-highlighted.pdf) - please fill out and upload before conference (or bring it with you)
-    * K-State requires a W-9 form from anyone requesting reimbursement. We only need the first page. **It must be signed physically or digitally**
-  * [Expense Report](files/expense-report.pdf) - please fill out and upload ASAP after end of conference
-    * Keep **itemized** receipts for everything being reimbursed (hotel, parking, meals, etc.). When in doubt, **get a receipt!**
+  * [W-9 Form](files/irs-w9-highlighted.pdf) - please fill out and upload before conference (or bring it with you).
+    * K-State requires a W-9 form from anyone requesting reimbursement. We only need the first page. **It must be signed!**
+  * [Expense Report](files/expense-report.pdf) - please fill out and upload ASAP after end of conference. Attach the following items:
+    * Itemized receipt (folio) from the hotel after checkout.
+    * Round-trip map from your home to the hotel for mileage. (Hint: add your home as the starting point, hotel as the first stop, and then home as a second stop to get round-trip mileage in one map).
+    * Itemized receipts for meals are **NOT** required for reimbursement. Meals will be reimbursed based on per diem.
   * [Upload Files Here](https://www.cs.ksu.edu/secure_file_upload.html)
 
 
