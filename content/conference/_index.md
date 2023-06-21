@@ -89,8 +89,7 @@ See below for helpful maps of the K-State Campus and the Engineering complex.
 | Time | Room | Title | 
 |:----:|:----:|:------|
 | 8:30-9:00AM | Engg. Atrium | Check-in |
-| 9:00-9:15AM | DUE 1116 | CS Standards (Josh Weese) |
-| 9:15-9:45AM | DUE 1116 | State of CS in KS (Josh Weese) |
+| 9:00-9:45AM | DUE 1116 | State of CS in KS (Stephen King) |
 | _9:45-10:00AM_ | _DUE 1116_ | _Break_ |
 | 10:00-11:15AM | DUE 1109 | [STEAM Speaker (Cindy Wallis-Lage)](https://www.k-state.edu/today/announcement/?id=90472) |
 | 11:15-11:45AM | Engg. Atrium | STEM Showcase |
