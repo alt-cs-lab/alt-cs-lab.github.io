@@ -112,7 +112,7 @@ _Note: BOF is shorthand for "Birds of a Feather" - an informal discussion group 
 | 9:00-10:30AM | Opening Keynote (Michelle Friend ) | | | | |
 | _10:30-10:45AM_ | | | | | _Break_ |
 | 10:45-11:45AM | AP Exam Preparation (Perla Weaver) | Experiences in CS: A Student Perspective (Panel) | Embedding CS in Early Elementary (Nathan Bean) | | |
-| _11:45AM-1:15PM_ |  | | | | _Working Lunch_<br>The State of CS in Kansas |
+| _11:45AM-1:15PM_ |  | | | | _Working Lunch_<br> |
 | 1:15-1:45PM | Science & CS (J.T. Laverty) | Agriculture & CS (Ivan Grijalva) | BOF: Early Elementary (Nathan Bean) | BOF: High School (Russ Feldhausen) | |
 | 1:45-2:15PM | Math & CS (David Allen) | Social Science & CS (Michael Flynn) | BOF: Middle Elementary (Nathan Bean) | BOF: High School (Russ Feldhausen) | |
 | _2:15-2:30PM_ | | | | | _Break_ |
