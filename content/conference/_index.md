@@ -74,11 +74,11 @@ See below for helpful maps of the K-State Campus and the Engineering complex.
 | 11:15-11:45AM | DUE 1116 | [Recruiting (Josh Weese)](files/recruitment-workshop-day1.pptx) |
 | _11:45AM-12:45PM_ | _DUE 1116_ | _Lunch_ |
 | 12:45-1:15PM | Beocat | [Beocat Tour (Dan Andresen)](https://kstate.designori.net/) <br> [Video](https://www.youtube.com/watch?v=3UR4CYTibhU) |
-| 1:15-1:45PM | DUE 1116 | Collaborative Problem Solving (David Allen) |
-| 1:45-2:15PM | DUE 1116 | Collaborative Problem Solving Breakouts (David Allen) |
+| 1:15-1:45PM | DUE 1116 | [Collaborative Problem Solving (David Allen)](files/collab_problem_solving.pptx) |
+| 1:45-2:15PM | DUE 1116 | [Collaborative Problem Solving Breakouts (David Allen)](files/collab_problem_solving.pptx) |
 | _2:15-2:25PM_ | _DUE 1116_ | _Break_ |
 | 2:25-2:30PM | Campus | Walk to Hale Library |
-| 2:30-3:00PM | Hale Library | Sunderland Innovation Lab Tour |
+| 2:30-3:00PM | Hale Library | [Sunderland Innovation Lab Tour](https://lib.k-state.edu/technology/innovation-lab/) |
 | 3:00-4:00PM | DUE 1116 | Reflection & Focus Groups |
 | Evening | Manhattan | Dinner On Your Own |
 
