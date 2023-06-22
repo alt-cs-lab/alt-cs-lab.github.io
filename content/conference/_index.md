@@ -67,13 +67,13 @@ See below for helpful maps of the K-State Campus and the Engineering complex.
 |:----:|:----:|:------|
 | 8:30-9:00AM | Engg. Atrium | Check-in |
 | 9:00-9:15AM | DUE 1116 | Administrivia |
-| 9:15-9:45AM | DUE 1116 | CS + X (Nathan Bean) |
+| 9:15-9:45AM | DUE 1116 | [CS + X (Nathan Bean)](files/cs_plus_x.pptx) |
 | _9:45-10:00AM_ | _DUE 1116_ | _Break_ |
-| 10:00-10:45AM | DUE 1116 | CS + X (Nathan Bean) |
+| 10:00-10:45AM | DUE 1116 | [CS + X (Nathan Bean)](files/cs_plus_x.pptx) |
 | 10:45-11:15AM | DUE 1116 | Diversity (Amy Betz) |
-| 11:15-11:45AM | DUE 1116 | Recruiting (Josh Weese) |
+| 11:15-11:45AM | DUE 1116 | [Recruiting (Josh Weese)](files/recruitment-workshop-day1.pptx) |
 | _11:45AM-12:45PM_ | _DUE 1116_ | _Lunch_ |
-| 12:45-1:15PM | Beocat | Beocat Tour (Dan Andresen) |
+| 12:45-1:15PM | Beocat | [Beocat Tour (Dan Andresen)](https://kstate.designori.net/) <br> [Video](https://www.youtube.com/watch?v=3UR4CYTibhU) |
 | 1:15-1:45PM | DUE 1116 | Collaborative Problem Solving (David Allen) |
 | 1:45-2:15PM | DUE 1116 | Collaborative Problem Solving Breakouts (David Allen) |
 | _2:15-2:25PM_ | _DUE 1116_ | _Break_ |
