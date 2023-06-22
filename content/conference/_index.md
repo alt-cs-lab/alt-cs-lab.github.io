@@ -70,7 +70,7 @@ See below for helpful maps of the K-State Campus and the Engineering complex.
 | 9:15-9:45AM | DUE 1116 | [CS + X (Nathan Bean)](files/cs_plus_x.pptx) |
 | _9:45-10:00AM_ | _DUE 1116_ | _Break_ |
 | 10:00-10:45AM | DUE 1116 | [CS + X (Nathan Bean)](files/cs_plus_x.pptx) |
-| 10:45-11:15AM | DUE 1116 | Diversity (Amy Betz) |
+| 10:45-11:15AM | DUE 1116 | [Diversity (Amy Betz)](files/teacher_workshop.pptx) <br> [Paper on Smartness](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jee.20463) |
 | 11:15-11:45AM | DUE 1116 | [Recruiting (Josh Weese)](files/recruitment-workshop-day1.pptx) |
 | _11:45AM-12:45PM_ | _DUE 1116_ | _Lunch_ |
 | 12:45-1:15PM | Beocat | [Beocat Tour (Dan Andresen)](https://kstate.designori.net/) <br> [Video](https://www.youtube.com/watch?v=3UR4CYTibhU) |
