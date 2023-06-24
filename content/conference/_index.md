@@ -117,7 +117,7 @@ _Note: BOF is shorthand for "Birds of a Feather" - an informal discussion group 
 | 1:45-2:15PM | Math & CS (David Allen) | Social Science & CS (Michael Flynn) | BOF: Middle Elementary (Nathan Bean) | BOF: High School (Russ Feldhausen) | |
 | _2:15-2:30PM_ | | | | | _Break_ |
 | 2:30-3:00PM | BOF: Student Recruitment (Josh Weese) | BOF: First Robotics (Nathan Bean) | BOF: CTE Pathways (Russ Feldhausen) | | |
-| 3:00-3:30PM | BOF: Game Programming (Nathan Bean) | BOF: Web Development (Russ Feldhausen) | BOF: Potpourri (Josh Weese) | | |
+| 3:00-3:30PM | BOF: Potpourri (Josh Weese) | BOF: Game Programming (Nathan Bean) | BOF: Web Development (Russ Feldhausen) | | |
 | 3:30-4:00PM | Wrap-up | | | | | |
 
 ## Maps
