@@ -79,7 +79,7 @@ See below for helpful maps of the K-State Campus and the Engineering complex.
 | _2:15-2:25PM_ | _DUE 1116_ | _Break_ |
 | 2:25-2:30PM | Campus | Walk to Hale Library |
 | 2:30-3:00PM | Hale Library | [Sunderland Innovation Lab Tour](https://lib.k-state.edu/technology/innovation-lab/) |
-| 3:00-4:00PM | DUE 1116 | Reflection & Focus Groups |
+| 3:00-4:00PM | DUE 1116 | Reflection & Focus Groups (Michelle Friend) |
 | Evening | Manhattan | Dinner On Your Own |
 
 ### Workshop - Friday 6/23
@@ -89,7 +89,7 @@ See below for helpful maps of the K-State Campus and the Engineering complex.
 | Time | Room | Title | 
 |:----:|:----:|:------|
 | 8:30-9:00AM | Engg. Atrium | Check-in |
-| 9:00-9:45AM | DUE 1116 | State of CS in KS (Stephen King) |
+| 9:00-9:45AM | DUE 1116 | [State of CS in KS (Stephen King)](https://www.ksde.org/Agency/Division-of-Learning-Services/Career-Standards-and-Assessment-Services/Content-Area-A-E/Computer-Science) |
 | _9:45-10:00AM_ | _DUE 1116_ | _Break_ |
 | 10:00-11:15AM | DUE 1109 | [STEAM Speaker (Cindy Wallis-Lage)](https://www.k-state.edu/today/announcement/?id=90472) |
 | 11:15-11:45AM | Engg. Atrium | STEM Showcase |
@@ -98,7 +98,7 @@ See below for helpful maps of the K-State Campus and the Engineering complex.
 | 1:45-2:15PM | DUE 1116 | Unconference (Russ Feldhausen) |
 | _2:15-2:30PM_ | _DUE 1116_ | _Break_ |
 | 2:30-3:00PM | DUE 1116 | Unconference (Russ Feldhausen) |
-| 3:00-4:00PM | DUE 1116 | Reflection & Focus Groups |
+| 3:00-4:00PM | DUE 1116 | Reflection & Focus Groups (Michelle Friend) |
 | Evening | Manhattan | Dinner On Your Own |
 
 ### KS CSTA Conference - Saturday 6/24
