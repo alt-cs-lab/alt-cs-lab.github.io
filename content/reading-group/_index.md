@@ -16,7 +16,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 | 6/9/2023 | Russ Feldhausen | [Ahadi & Lister (2013)]({{< ref "reading-group#U23-1" >}}) |
 | 6/16/2023 | Russ Feldhausen | [Hogan, Li & Soosai Raj (2023)]({{< ref "reading-group#U23-2" >}}) |
 | 6/23/2023 |_No Meeting_ | |
-| 6/30/2023 | Sai Teja Erukude | [TBD]({{< ref "reading-group#U23-3" >}}) |
+| 6/30/2023 | Sai Teja Erukude | [Wang (2013)]({{< ref "reading-group#U23-3" >}}) |
 | 7/7/2023 | Namratha Kommineni | [TBD]({{< ref "reading-group#U23-4" >}}) |
 | 7/14/2023 | Akhil Joshi | [TBD]({{< ref "reading-group#U23-5" >}}) |
 | 7/21/2023 | Samantha Ereshi Akkamahadevi | [TBD]({{< ref "reading-group#U23-6" >}}) |
