@@ -74,8 +74,8 @@ See below for helpful maps of the K-State Campus and the Engineering complex.
 | 11:15-11:45AM | DUE 1116 | [Recruiting (Josh Weese)](files/recruitment-workshop-day1.pptx) | [Video](https://www.youtube.com/watch?v=dmai7D0vTCg) |
 | _11:45AM-12:45PM_ | _DUE 1116_ | _Lunch_ |
 | 12:45-1:15PM | Beocat | [Beocat Tour (Dan Andresen)](https://kstate.designori.net/) <br> [Older Video](https://www.youtube.com/watch?v=3UR4CYTibhU) | [Video](https://www.youtube.com/watch?v=oFCpasWw6wc)
-| 1:15-1:45PM | DUE 1116 | [Collaborative Problem Solving (David Allen)](files/collab_problem_solving.pptx) |
-| 1:45-2:15PM | DUE 1116 | [Collaborative Problem Solving Breakouts (David Allen)](files/collab_problem_solving.pptx) |
+| 1:15-1:45PM | DUE 1116 | [Collaborative Problem Solving (David Allen)](files/collab_problem_solving.pptx) | [Video](https://www.youtube.com/watch?v=d-kZxOtwHwY) <br> [Mark Rober - Backyard Squirrel Maze 1.0](https://www.youtube.com/watch?v=hFZFjoX2cGg) |
+| 1:45-2:15PM | DUE 1116 | [Collaborative Problem Solving Breakouts (David Allen)](files/collab_problem_solving.pptx) | [Video (Breakouts start at 20:01)](https://youtu.be/d-kZxOtwHwY?t=1201) |
 | _2:15-2:25PM_ | _DUE 1116_ | _Break_ |
 | 2:25-2:30PM | Campus | Walk to Hale Library |
 | 2:30-3:00PM | Hale Library | [Sunderland Innovation Lab Tour](https://lib.k-state.edu/technology/innovation-lab/) |
