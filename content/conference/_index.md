@@ -63,17 +63,17 @@ See below for helpful maps of the K-State Campus and the Engineering complex.
 
 [Thursday Zoom Link](https://ksu.zoom.us/j/96304497087?pwd=NzZ1M0FiTHZUT0VRYURvanVrZzJrQT09)
 
-| Time | Room | Title | 
-|:----:|:----:|:------|
+| Time | Room | Title | Video |
+|:----:|:----:|:------|:------|
 | 8:30-9:00AM | Engg. Atrium | Check-in |
 | 9:00-9:15AM | DUE 1116 | Administrivia |
-| 9:15-9:45AM | DUE 1116 | [CS + X (Nathan Bean)](files/cs_plus_x.pptx) |
+| 9:15-9:45AM | DUE 1116 | [CS + X (Nathan Bean)](files/cs_plus_x.pptx) | [Video](https://www.youtube.com/watch?v=W4Jwq-m97H0) |
 | _9:45-10:00AM_ | _DUE 1116_ | _Break_ |
 | 10:00-10:45AM | DUE 1116 | [CS + X (Nathan Bean)](files/cs_plus_x.pptx) |
 | 10:45-11:15AM | DUE 1116 | [Diversity (Amy Betz)](files/teacher_workshop.pptx) <br> [Paper on Smartness](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jee.20463) |
-| 11:15-11:45AM | DUE 1116 | [Recruiting (Josh Weese)](files/recruitment-workshop-day1.pptx) |
+| 11:15-11:45AM | DUE 1116 | [Recruiting (Josh Weese)](files/recruitment-workshop-day1.pptx) | [Video](https://www.youtube.com/watch?v=dmai7D0vTCg) |
 | _11:45AM-12:45PM_ | _DUE 1116_ | _Lunch_ |
-| 12:45-1:15PM | Beocat | [Beocat Tour (Dan Andresen)](https://kstate.designori.net/) <br> [Video](https://www.youtube.com/watch?v=3UR4CYTibhU) |
+| 12:45-1:15PM | Beocat | [Beocat Tour (Dan Andresen)](https://kstate.designori.net/) <br> [Older Video](https://www.youtube.com/watch?v=3UR4CYTibhU) | [Video](https://www.youtube.com/watch?v=oFCpasWw6wc)
 | 1:15-1:45PM | DUE 1116 | [Collaborative Problem Solving (David Allen)](files/collab_problem_solving.pptx) |
 | 1:45-2:15PM | DUE 1116 | [Collaborative Problem Solving Breakouts (David Allen)](files/collab_problem_solving.pptx) |
 | _2:15-2:25PM_ | _DUE 1116_ | _Break_ |
@@ -86,16 +86,16 @@ See below for helpful maps of the K-State Campus and the Engineering complex.
 
 [Friday Zoom Link](https://ksu.zoom.us/j/96304497087?pwd=NzZ1M0FiTHZUT0VRYURvanVrZzJrQT09)
 
-| Time | Room | Title | 
-|:----:|:----:|:------|
+| Time | Room | Title | Video |
+|:----:|:----:|:------|:------|
 | 8:30-9:00AM | Engg. Atrium | Check-in |
 | 9:00-9:45AM | DUE 1116 | [State of CS in KS (Stephen King)](https://www.ksde.org/Agency/Division-of-Learning-Services/Career-Standards-and-Assessment-Services/Content-Area-A-E/Computer-Science) |
 | _9:45-10:00AM_ | _DUE 1116_ | _Break_ |
 | 10:00-11:15AM | DUE 1109 | [STEAM Speaker (Cindy Wallis-Lage)](https://www.k-state.edu/today/announcement/?id=90472) |
 | 11:15-11:45AM | Engg. Atrium | STEM Showcase |
 | _11:45AM-1:15PM_ | _DUE 1116_ | _Lunch_ |
-| 1:15-1:45PM | DUE 1116 | K-State CS K-12 Outreach |
-| 1:45-2:15PM | DUE 1116 | Unconference (Russ Feldhausen) |
+| 1:15-1:45PM | DUE 1116 | K-State CS K-12 Outreach | [Video](https://www.youtube.com/watch?v=M7DwF5oWvNo) |
+| 1:45-2:15PM | DUE 1116 | Unconference (Russ Feldhausen) | [Video](https://www.youtube.com/watch?v=4UuExRLnQL4) |
 | _2:15-2:30PM_ | _DUE 1116_ | _Break_ |
 | 2:30-3:00PM | DUE 1116 | Unconference (Russ Feldhausen) |
 | 3:00-4:00PM | DUE 1116 | Reflection & Focus Groups (Michelle Friend) |
@@ -116,8 +116,8 @@ _Note: BOF is shorthand for "Birds of a Feather" - an informal discussion group 
 | 1:15-1:45PM | Science & CS (J.T. Laverty) | Agriculture & CS (Ivan Grijalva) | BOF: Early Elementary (Nathan Bean) | BOF: High School (Russ Feldhausen) | |
 | 1:45-2:15PM | Math & CS (David Allen) | Social Science & CS (Michael Flynn) | BOF: Middle Elementary (Nathan Bean) | BOF: High School (Russ Feldhausen) | |
 | _2:15-2:30PM_ | | | | | _Break_ |
-| 2:30-3:00PM | BOF: Student Recruitment (Josh Weese) | BOF: First Robotics (Nathan Bean) | BOF: CTE Pathways (Russ Feldhausen) | | |
-| 3:00-3:30PM | BOF: Potpourri (Josh Weese) | BOF: Game Programming (Nathan Bean) | BOF: Web Development (Russ Feldhausen) | | |
+| 2:30-3:00PM | BOF: Student Recruitment (Josh Weese) | BOF: First Robotics (Nathan Bean)<br>[Video](https://www.youtube.com/watch?v=L6oQqYAOn8M) | BOF: CTE Pathways (Russ Feldhausen) | | |
+| 3:00-3:30PM | BOF: Potpourri (Josh Weese) | BOF: Game Programming (Nathan Bean)<br>[Video](https://www.youtube.com/watch?v=L6oQqYAOn8M) | BOF: Web Development (Russ Feldhausen) | | |
 | 3:30-4:00PM | Wrap-up | | | | | |
 
 ## Maps
