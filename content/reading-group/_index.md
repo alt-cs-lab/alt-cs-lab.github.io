@@ -17,7 +17,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 | 6/16/2023 | Russ Feldhausen | [Hogan, Li & Soosai Raj (2023)]({{< ref "reading-group#U23-2" >}}) |
 | 6/23/2023 |_No Meeting_ | |
 | 6/30/2023 | Sai Teja Erukude | [Wang (2013)]({{< ref "reading-group#U23-3" >}}) |
-| 7/7/2023 | Namratha Kommineni | [TBD]({{< ref "reading-group#U23-4" >}}) |
+| 7/7/2023 | Namratha Kommineni | [Utting et al. (2013)]({{< ref "reading-group#U23-4" >}}) |
 | 7/14/2023 | Akhil Joshi | [TBD]({{< ref "reading-group#U23-5" >}}) |
 | 7/21/2023 | Samantha Ereshi Akkamahadevi | [TBD]({{< ref "reading-group#U23-6" >}}) |
 | 7/28/2023 | TBD | [TBD]({{< ref "reading-group#U23-7" >}}) |
@@ -96,3 +96,15 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 **Abstract**
 
 > This study aimed to explore the gap regarding technology integration between urban and rural schools based on theWill Skill Tool model. This study was guided by three main questions: 1) Is there any significant difference in terms of technology availability between rural and urban elementary schools?; 2) Is there any significant difference in terms of teachers’ attitudes, competence, levels and experiences in technology integration between rural and urban elementary schools?; 3) Is there any significant difference in terms of students’ attitudes, competence and experiences in technology integration between rural and urban elementary schools? This was a survey study with 275 teachers and 293 students as participants in southern Taiwan. Half of the participants came from regular urban schools and the other half were from disadvantaged rural schools. T-tests and Chi-Square tests were done to examine differences. The results showed that there was a significant difference in technology availability between rural and urban schools, including the number of interactive whiteboards, desktops in labs, notebooks, netbooks, and tablet computers. There was also a difference in teacher overall high-tech integration level between rural and urban schools.Urban teachers reached the level of “familiarity and confidence” but rural teachers only stayed at the level of“understanding and application of the process.” Teachers’ experience, purpose and difficulty in technology integration between rural and urban schools were also slightly different. In addition, there was a difference in students’ experience and preference in using technology to learn, especially using interactive whiteboards in learning.
+
+### 7/7/2023 - Utting et al. (2013) {#U23-4}
+
+###### A Fresh Look at Novice Programmers' Performance and their Teachers' Expectations
+
+* [Paper Link](https://dl.acm.org/doi/10.1145/2543882.2543884)
+* Review
+* Slides
+
+**Abstract**
+
+> This paper describes the results of an ITiCSE working group convened in 2013 to review and revisit the influential ITiCSE 2001 McCracken working group that reported on novice programmers' ability to solve a specified programming problem. Like that study, the one described here asked students to implement a simple program. Unlike the original study, students' in this study were given significant scaffolding for their efforts, including a test harness. Their knowledge of programming concepts was also assessed via a standard language-neutral survey. One of the significant findings of the original working group was that students were less successful at the programming task than their teachers expected, so in this study teachers' expectations were explicitly gathered and matched with students' performance. This study found a significant correlation between students' performance in the practical task and the survey, and a significant effect on performance in the practical task attributable to the use of the test harness. The study also found a much better correlation between teachers' expectations of their students' performance than in the 2001 working group.
