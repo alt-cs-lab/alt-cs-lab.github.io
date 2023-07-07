@@ -102,8 +102,8 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 ###### A Fresh Look at Novice Programmers' Performance and their Teachers' Expectations
 
 * [Paper Link](https://dl.acm.org/doi/10.1145/2543882.2543884)
-* Review
-* Slides
+* [Review](files/summer2023/4-utting-review.pdf)
+* [Slides](files/summer2023/4-utting-slides.pptx)
 
 **Abstract**
 

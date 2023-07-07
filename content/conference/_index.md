@@ -114,7 +114,7 @@ _Note: BOF is shorthand for "Birds of a Feather" - an informal discussion group 
 | 10:45-11:45AM | [AP Exam Preparation (Perla Weaver)](files/ap_perla.pptx) | Experiences in CS: A Student Perspective (Panel) | Embedding CS in Early Elementary (Nathan Bean) | | |
 | _11:45AM-1:15PM_ |  | | | | _Working Lunch_<br> |
 | 1:15-1:45PM | Science & CS (J.T. Laverty)<br>Video Available on Canvas | [Agriculture & CS (Ivan Grijalva)](files/csta_ag.pdf)<br>[Video](https://www.youtube.com/watch?v=dLXLCIAGAxo) | BOF: Early Elementary (Nathan Bean) | BOF: High School (Russ Feldhausen) | |
-| 1:45-2:15PM | Math & CS (David Allen) | Social Science & CS (Michael Flynn) | BOF: Middle Elementary (Nathan Bean) | BOF: High School (Russ Feldhausen) | |
+| 1:45-2:15PM | Math & CS (David Allen) | [Social Science & CS (Michael Flynn)](https://meflynn.github.io/Kansas-Computer-Science-Talk/ks-computer-science.html#/title-slide)<br>[Video](https://www.youtube.com/watch?v=JFQIMosWsnA) | BOF: Middle Elementary (Nathan Bean) | BOF: High School (Russ Feldhausen) | |
 | _2:15-2:30PM_ | | | | | _Break_ |
 | 2:30-3:00PM | BOF: Student Recruitment (Josh Weese) | BOF: First Robotics (Nathan Bean)<br>[Video](https://www.youtube.com/watch?v=L6oQqYAOn8M) | BOF: CTE Pathways (Russ Feldhausen) | | |
 | 3:00-3:30PM | BOF: Potpourri (Josh Weese) | BOF: Game Programming (Nathan Bean)<br>[Video](https://www.youtube.com/watch?v=L6oQqYAOn8M) | BOF: Web Development (Russ Feldhausen) | | |
