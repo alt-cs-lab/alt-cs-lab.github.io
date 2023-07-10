@@ -18,7 +18,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 | 6/23/2023 |_No Meeting_ | |
 | 6/30/2023 | Sai Teja Erukude | [Wang (2013)]({{< ref "reading-group#U23-3" >}}) |
 | 7/7/2023 | Namratha Kommineni | [Utting et al. (2013)]({{< ref "reading-group#U23-4" >}}) |
-| 7/14/2023 | Akhil Joshi | [TBD]({{< ref "reading-group#U23-5" >}}) |
+| 7/14/2023 | Akhil Joshi | [Ying et al. (2021)]({{< ref "reading-group#U23-5" >}}) |
 | 7/21/2023 | Samantha Ereshi Akkamahadevi | [TBD]({{< ref "reading-group#U23-6" >}}) |
 | 7/28/2023 | TBD | [TBD]({{< ref "reading-group#U23-7" >}}) |
 | 8/4/2023 | TBD | [TBD]({{< ref "reading-group#U23-8" >}}) |
@@ -108,3 +108,15 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 **Abstract**
 
 > This paper describes the results of an ITiCSE working group convened in 2013 to review and revisit the influential ITiCSE 2001 McCracken working group that reported on novice programmers' ability to solve a specified programming problem. Like that study, the one described here asked students to implement a simple program. Unlike the original study, students' in this study were given significant scaffolding for their efforts, including a test harness. Their knowledge of programming concepts was also assessed via a standard language-neutral survey. One of the significant findings of the original working group was that students were less successful at the programming task than their teachers expected, so in this study teachers' expectations were explicitly gathered and matched with students' performance. This study found a significant correlation between students' performance in the practical task and the survey, and a significant effect on performance in the practical task attributable to the use of the test harness. The study also found a much better correlation between teachers' expectations of their students' performance than in the 2001 working group.
+
+### 7/14/2023 - Ying et al. (2021) {#U23-5}
+
+###### CS1 Students' Perspectives on the Computer Science Gender Gap: Achieving Equity Requires Awareness
+
+* [Paper Link](https://doi.org/10.1109/RESPECT51740.2021.9620659)
+* Review
+* Slides
+
+**Abstract**
+
+> There are numerous initiatives to improve diversity within the computer science field. However, women still disproportionately drop CS majors and earn less than one quarter of CS bachelor's degrees in the United States. The extent to which CS students-especially male students-are aware of this gender gap is an open question. This paper reports on a study to investigate that question. We analyzed 325 CS1 students' survey responses and found significant differences between women's and men's awareness of the CS gender gap. Men were significantly less aware of the gender gap than women, and men had significantly milder beliefs about whether women experienced adversity in CS and whether there should be targeted efforts to support women. Twenty students (10 women and 10 men) participated in follow-up interviews after the survey, where they discussed their experiences and perceptions of the computer science gender gap. Even among students who were aware of the gender gap, many had a superficial understanding of its cause, believing it to be due to women having less natural interest in CS. We argue that these findings are a call-to-action: university CS curricula need to include diversity, equity, and inclusion (DEI) training so that students have a more complete understanding of this complex issue, and so that these misconceptions do not continue to be perpetuated into the workplace.
