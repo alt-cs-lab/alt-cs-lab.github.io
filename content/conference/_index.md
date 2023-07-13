@@ -109,7 +109,7 @@ _Note: BOF is shorthand for "Birds of a Feather" - an informal discussion group 
 |:----:|:---------|:---------|:---------|:---------|:-------------|
 | **All Day** | [Zoom Link](https://ksu.zoom.us/j/96304497087?pwd=NzZ1M0FiTHZUT0VRYURvanVrZzJrQT09) | [Zoom Link](https://ksu.zoom.us/j/92784520403?pwd=T3BiNGQ2OHFxc0V1dU13NWlCWlFIZz09) | [Zoom Link](https://ksu.zoom.us/j/95197492682?pwd=K3NyZ254WmNpcHl3MEV0SDVkRUwrUT09) | [Zoom  Link](https://ksu.zoom.us/j/98013962666?pwd=RmxsVjJYNlVHbVJCYXQvbEVpTys4Zz09) | |
 | 8:30-9:00AM | | | | | Check-in |
-| 9:00-10:30AM | [Opening Keynote (Michelle Friend )](files/collab_problem_solving.pptx) | | | | |
+| 9:00-10:30AM | [Opening Keynote (Michelle Friend )](files/collab_problem_solving.pptx)<br>[Video](https://www.youtube.com/watch?v=becFBVUfx4Y) | | | | |
 | _10:30-10:45AM_ | | | | | _Break_ |
 | 10:45-11:45AM | [AP Exam Preparation (Perla Weaver)](files/ap_perla.pptx) | Experiences in CS: A Student Perspective (Panel) | Embedding CS in Early Elementary (Nathan Bean) | | |
 | _11:45AM-1:15PM_ |  | | | | _Working Lunch_<br> |
