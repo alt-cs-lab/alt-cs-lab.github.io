@@ -114,8 +114,8 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 ###### CS1 Students' Perspectives on the Computer Science Gender Gap: Achieving Equity Requires Awareness
 
 * [Paper Link](https://doi.org/10.1109/RESPECT51740.2021.9620659)
-* Review
-* Slides
+* [Review](files/summer2023/5-ying-review.pdf)
+* [Slides](files/summer2023/5-ying-slides.pptx)
 
 **Abstract**
 
