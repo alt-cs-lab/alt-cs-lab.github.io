@@ -19,7 +19,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 | 6/30/2023 | Sai Teja Erukude | [Wang (2013)]({{< ref "reading-group#U23-3" >}}) |
 | 7/7/2023 | Namratha Kommineni | [Utting et al. (2013)]({{< ref "reading-group#U23-4" >}}) |
 | 7/14/2023 | Akhil Joshi | [Ying et al. (2021)]({{< ref "reading-group#U23-5" >}}) |
-| 7/21/2023 | Samatha Ereshi Akkamahadevi | [Dorn & Tew (2013)]({{< ref "reading-group#U23-6" >}}) |
+| 7/21/2023 | Samatha Ereshi Akkamahadevi | [Shell et al. (2016)]({{< ref "reading-group#U23-6" >}}) |
 | 7/28/2023 | TBD | [TBD]({{< ref "reading-group#U23-7" >}}) |
 | 8/4/2023 | TBD | [TBD]({{< ref "reading-group#U23-8" >}}) |
 | 8/11/2023 | TBD | [TBD]({{< ref "reading-group#U23-9" >}}) |
@@ -121,14 +121,14 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 > There are numerous initiatives to improve diversity within the computer science field. However, women still disproportionately drop CS majors and earn less than one quarter of CS bachelor's degrees in the United States. The extent to which CS students-especially male students-are aware of this gender gap is an open question. This paper reports on a study to investigate that question. We analyzed 325 CS1 students' survey responses and found significant differences between women's and men's awareness of the CS gender gap. Men were significantly less aware of the gender gap than women, and men had significantly milder beliefs about whether women experienced adversity in CS and whether there should be targeted efforts to support women. Twenty students (10 women and 10 men) participated in follow-up interviews after the survey, where they discussed their experiences and perceptions of the computer science gender gap. Even among students who were aware of the gender gap, many had a superficial understanding of its cause, believing it to be due to women having less natural interest in CS. We argue that these findings are a call-to-action: university CS curricula need to include diversity, equity, and inclusion (DEI) training so that students have a more complete understanding of this complex issue, and so that these misconceptions do not continue to be perpetuated into the workplace.
 
-### 7/14/2023 - Dorn & Tew (2013) {#U23-6}
+### 7/14/2023 - Shell et al. (2016) {#U23-6}
 
-###### Becoming Experts: Measuring Attitude Development in Introductory Computer Science
+###### Students' Initial Course Motivation and Their Achievement and Retention in College CS1 Courses
 
-* [Paper Link](https://doi.org/10.1145/2445196.2445252)
+* [Paper Link](https://doi.org/10.1145/2839509.2844606)
 * Review
 * Slides
 
 **Abstract**
 
-> We have begun the process of examining how students perceive the field of computer science by employing a novice-to-expert continuum framework. As part of this exploration we have developed and are validating the Computing Attitudes Survey (CAS). In this study, our research focuses on how students develop expert-like attitudes and what effect an introductory course may have on that development. In particular, we find that the CAS instrument can be used to detect pre/post attitude shifts after a single introductory course of instruction and that individual subpopulations show positive attitude gains across gender, area of study and pedagogy Further, the CAS can also be used to identify significant pre/post attitude shifts among individual component factors, groupings of items on the survey that characterize different aspects of novice thought processes.
+> The goal of this study was to investigate how students' entering motivation for the course in a suite of CS1 introductory computer science courses was associated with their subsequent course achievement and retention. Courses were tailored for specific student populations (CS majors, engineering majors, business-CS combined honors program). Students' goal orientations (learning, performance, task), perceived instrumentality (endogenous, exogenous), career connectedness, self-efficacy, and mindsets (growth or fixed) were assessed at the start of the course. Grades were significantly predicted from entering motivation; but prediction was highly variable across courses, ranging from not predicted for the engineering courses to highly predictable for the business-CS honors program. Course withdrawal was significantly predicted. Likelihood of withdrawing was decreased by future time career connectedness and learning approach goal orientation and increased by having an incremental theory of intelligence. Findings suggest that CS1 students who set learning approach goals for their classes have better academic outcomes and higher retention. Other motivational beliefs were inconsistent in their impacts and varied by course and student population. Except for students in an honors program, entering motivational beliefs weakly predicted achievement and retention, suggesting that impacts of the course itself on motivation and how motivation changes during the course are perhaps more important than student's initial motivation.
