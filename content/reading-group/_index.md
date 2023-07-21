@@ -121,7 +121,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 > There are numerous initiatives to improve diversity within the computer science field. However, women still disproportionately drop CS majors and earn less than one quarter of CS bachelor's degrees in the United States. The extent to which CS students-especially male students-are aware of this gender gap is an open question. This paper reports on a study to investigate that question. We analyzed 325 CS1 students' survey responses and found significant differences between women's and men's awareness of the CS gender gap. Men were significantly less aware of the gender gap than women, and men had significantly milder beliefs about whether women experienced adversity in CS and whether there should be targeted efforts to support women. Twenty students (10 women and 10 men) participated in follow-up interviews after the survey, where they discussed their experiences and perceptions of the computer science gender gap. Even among students who were aware of the gender gap, many had a superficial understanding of its cause, believing it to be due to women having less natural interest in CS. We argue that these findings are a call-to-action: university CS curricula need to include diversity, equity, and inclusion (DEI) training so that students have a more complete understanding of this complex issue, and so that these misconceptions do not continue to be perpetuated into the workplace.
 
-### 7/14/2023 - Shell et al. (2016) {#U23-6}
+### 7/21/2023 - Shell et al. (2016) {#U23-6}
 
 ###### Students' Initial Course Motivation and Their Achievement and Retention in College CS1 Courses
 
