@@ -20,7 +20,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 | 7/7/2023 | Namratha Kommineni | [Utting et al. (2013)]({{< ref "reading-group#U23-4" >}}) |
 | 7/14/2023 | Akhil Joshi | [Ying et al. (2021)]({{< ref "reading-group#U23-5" >}}) |
 | 7/21/2023 | Samatha Ereshi Akkamahadevi | [Shell et al. (2016)]({{< ref "reading-group#U23-6" >}}) |
-| 7/28/2023 | TBD | [TBD]({{< ref "reading-group#U23-7" >}}) |
+| 7/28/2023 | _No Meeting_ | | 
 | 8/4/2023 | TBD | [TBD]({{< ref "reading-group#U23-8" >}}) |
 | 8/11/2023 | TBD | [TBD]({{< ref "reading-group#U23-9" >}}) |
 | 8/18/2023 | TBD | [TBD]({{< ref "reading-group#U23-10" >}}) |
