@@ -126,8 +126,8 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 ###### Students' Initial Course Motivation and Their Achievement and Retention in College CS1 Courses
 
 * [Paper Link](https://doi.org/10.1145/2839509.2844606)
-* Review
-* Slides
+* [Review](files/summer2023/6-shell-review.pdf)
+* [Slides](files/summer2023/6-shell-slides.pptx)
 
 **Abstract**
 
