@@ -23,5 +23,13 @@
     <description>Recent content on ALT&#43;CS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://alt-cs-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop &amp; Conference</title>
+      <link>https://alt-cs-lab.github.io/conference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alt-cs-lab.github.io/conference/</guid>
+      <description>The K-State Advancing Learning &amp;amp; Teaching in Computer Science (ALT+CS) Lab is proud to host the Summer 2023 Teacher Training Workshop in conjunction with the Kansas Computer Science Teachers Association (CSTA) chapter annual conference.
+Travel &amp;amp; Logistics Conference Hotel: Holiday Inn Manhattan At the Campus Hotel reservations have been handled through the RSVP process. Make sure you get an itemized receipt after checkout! Parking Hotel guests have free parking at the conference hotel.</description>
+    </item>
   </channel>
 </rss>
