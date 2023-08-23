@@ -6,7 +6,7 @@ weight = 2
 
 This is the homepage of the ALT+CS CS Education Reading Group.
 
-* **When**: Fridays at 1:00 PM (Summer 2023)
+* **When**: Wednesdays at 2:30 PM (Fall 2023)
 * **Where**: ALT+CS Lab (DUE 2208) and via [Zoom](https://ksu.zoom.us/j/95100060366?pwd=dXBwcWlLWTNOcVd0T05Pay9KcFhtUT09)
 
 ## Schedule
@@ -15,15 +15,13 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 |:-----|:----------|:------|
 | 6/9/2023 | Russ Feldhausen | [Ahadi & Lister (2013)]({{< ref "reading-group#U23-1" >}}) |
 | 6/16/2023 | Russ Feldhausen | [Hogan, Li & Soosai Raj (2023)]({{< ref "reading-group#U23-2" >}}) |
-| 6/23/2023 |_No Meeting_ | |
 | 6/30/2023 | Sai Teja Erukude | [Wang (2013)]({{< ref "reading-group#U23-3" >}}) |
 | 7/7/2023 | Namratha Kommineni | [Utting et al. (2013)]({{< ref "reading-group#U23-4" >}}) |
 | 7/14/2023 | Akhil Joshi | [Ying et al. (2021)]({{< ref "reading-group#U23-5" >}}) |
 | 7/21/2023 | Samatha Ereshi Akkamahadevi | [Shell et al. (2016)]({{< ref "reading-group#U23-6" >}}) |
-| 7/28/2023 | _No Meeting_ | | 
 | 8/4/2023 | Zach Berard | [YeckehZaare et al. (2022)]({{< ref "reading-group#U23-8" >}}) |
-| 8/11/2023 | TBD | [TBD]({{< ref "reading-group#U23-9" >}}) |
-| 8/18/2023 | TBD | [TBD]({{< ref "reading-group#U23-10" >}}) |
+| 8/30/2023 | Nathan Bean | [TBD]({{< ref "reading-group#F23-1" >}}) |
+| 9/6/2023 | TBD | [TBD]({{< ref "reading-group#F23-2" >}}) |
 
 ## Helpful Information
 
@@ -58,6 +56,12 @@ This is the homepage of the ALT+CS CS Education Reading Group.
   * [Running an Effective Reading Group](https://muratbuffalo.blogspot.com/2015/05/how-to-run-effective-paper-reading.html)
 
 {{% /expand %}}
+
+## Fall 2023 Papers
+
+### 8/30/2023 - TBD {#F23-1}
+
+TBD
 
 ## Summer 2023 Papers
 
