@@ -16,33 +16,39 @@
 	
 		
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
     <meta name="generator" content="Hugo 0.101.0">
-    <meta name="generator" content="Relearn 5.2.0+tip">
+    <meta name="generator" content="Relearn 5.18.0">
     <meta name="robots" content="noindex, nofollow, noarchive, noimageindex">
     <meta name="description" content="ALT&#43;CS Lab">
     <meta name="author" content="Nathan Bean, Joshua Weese, Russell Feldhausen">
     <title>Reading Group :: ALT&#43;CS Lab</title>
+    
     <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
-    <link href="https://alt-cs-lab.github.io/css/fontawesome-all.min.css?1690839755" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://alt-cs-lab.github.io/css/fontawesome-all.min.css?1690839755" rel="stylesheet"></noscript>
-    <link href="https://alt-cs-lab.github.io/css/featherlight.min.css?1690839755" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://alt-cs-lab.github.io/css/featherlight.min.css?1690839755" rel="stylesheet"></noscript>
-    <link href="https://alt-cs-lab.github.io/css/auto-complete.css?1690839755" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://alt-cs-lab.github.io/css/auto-complete.css?1690839755" rel="stylesheet"></noscript>
-    <link href="https://alt-cs-lab.github.io/css/perfect-scrollbar.min.css?1690839755" rel="stylesheet">
-    <link href="https://alt-cs-lab.github.io/css/nucleus.css?1690839755" rel="stylesheet">
-    <link href="https://alt-cs-lab.github.io/css/fonts.css?1690839755" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://alt-cs-lab.github.io/css/fonts.css?1690839755" rel="stylesheet"></noscript>
-    <link href="https://alt-cs-lab.github.io/css/theme.css?1690839755" rel="stylesheet">
-    <link href="https://alt-cs-lab.github.io/css/theme-light-theme.css?1690839755" rel="stylesheet" id="variant-style">
-    <link href="https://alt-cs-lab.github.io/css/ie.css?1690839755" rel="stylesheet">
-    <link href="https://alt-cs-lab.github.io/css/variant.css?1690839755" rel="stylesheet">
-    <link href="https://alt-cs-lab.github.io/css/print.css?1690839755" rel="stylesheet" media="print">
-    <script src="https://alt-cs-lab.github.io/js/variant.js?1690839755"></script>
+    <link href="https://alt-cs-lab.github.io/css/fontawesome-all.min.css?1692802186" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://alt-cs-lab.github.io/css/fontawesome-all.min.css?1692802186" rel="stylesheet"></noscript>
+    <link href="https://alt-cs-lab.github.io/css/nucleus.css?1692802186" rel="stylesheet">
+    <link href="https://alt-cs-lab.github.io/css/auto-complete.css?1692802186" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://alt-cs-lab.github.io/css/auto-complete.css?1692802186" rel="stylesheet"></noscript>
+    <link href="https://alt-cs-lab.github.io/css/perfect-scrollbar.min.css?1692802186" rel="stylesheet">
+    <link href="https://alt-cs-lab.github.io/css/fonts.css?1692802186" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="https://alt-cs-lab.github.io/css/fonts.css?1692802186" rel="stylesheet"></noscript>
+    <link href="https://alt-cs-lab.github.io/css/theme.css?1692802186" rel="stylesheet">
+    
+    
+    
+    <link href="https://alt-cs-lab.github.io/css/theme-relearn-light.css?1692802186" rel="stylesheet" id="variant-style">
+    <link href="https://alt-cs-lab.github.io/css/variant.css?1692802186" rel="stylesheet">
+    <link href="https://alt-cs-lab.github.io/css/print.css?1692802186" rel="stylesheet" media="print">
+    <link href="https://alt-cs-lab.github.io/css/ie.css?1692802186" rel="stylesheet">
+    <script src="https://alt-cs-lab.github.io/js/url.js?1692802186"></script>
+    
+    
+    
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
-      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
-      var index_url="https://alt-cs-lab.github.io/index.json";
+      // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72""
+      window.index_json_url="https://alt-cs-lab.github.io/index.json";
       var root_url="https://alt-cs-lab.github.io/";
       var baseUri=root_url.replace(/\/$/, '');
       // translations
@@ -50,14 +56,16 @@
       window.T_Copied_to_clipboard = 'Copied to clipboard!';
       window.T_Copy_link_to_clipboard = 'Copy link to clipboard';
       window.T_Link_copied_to_clipboard = 'Copied link to clipboard!';
+      window.T_No_results_found = 'No results found for \u0022{0}\u0022';
+      window.T_N_results_found = '{1} results found for \u0022{0}\u0022';
       // some further base stuff
       var baseUriFull='https:\/\/alt-cs-lab.github.io/';
-      window.variants && variants.init( [ 'light-theme', 'dark-theme' ] );
+      window.variants && variants.init( [ 'relearn-light' ] );
     </script>
     
-    <link href="https://alt-cs-lab.github.io/css/custom.css?1690839755" rel="stylesheet">
-    <script src="https://alt-cs-lab.github.io/js/jquery.min.js?1690839755" defer></script>
+    <link href="https://alt-cs-lab.github.io/css/custom.css?1692802186" rel="stylesheet">
 
+    
   </head>
   <body class="mobile-support embed disableInlineCopyToClipboard" data-url="https://alt-cs-lab.github.io/reading-group/embed.html">
     <div id="body" class="default-animation">
@@ -66,18 +74,15 @@
       
       <main id="body-inner" class="highlightable default" tabindex="-1">
         <div class="flex-block-wrapper">
-          <div id="head-tags">
-          </div>
           <article class="default">
     
     
     
 <p>This is the homepage of the ALT+CS CS Education Reading Group.</p>
 <ul>
-<li><strong>When</strong>: Fridays at 1:00 PM (Summer 2023)</li>
-<li><strong>Where</strong>: ALT+CS Lab (DUE 2208) and via 
-
-<a href="https://ksu.zoom.us/j/95100060366?pwd=dXBwcWlLWTNOcVd0T05Pay9KcFhtUT09" target="_blank" rel="noopener">Zoom</a></li>
+<li><strong>When</strong>: Wednesdays at 2:30 PM (Fall 2023)</li>
+<li><strong>Where</strong>: ALT+CS Lab (DUE 2208) and via <a href="https://ksu.zoom.us/j/95100060366?pwd=dXBwcWlLWTNOcVd0T05Pay9KcFhtUT09" target="_blank">Zoom</a>
+</li>
 </ul>
 <h2 id="schedule">Schedule</h2>
 <table>
@@ -92,112 +97,90 @@
 <tr>
 <td style="text-align:left">6/9/2023</td>
 <td style="text-align:left">Russ Feldhausen</td>
-<td style="text-align:left">
-
-<a href="https://alt-cs-lab.github.io/reading-group/#U23-1">Ahadi &amp; Lister (2013)</a></td>
+<td style="text-align:left"><a href="https://alt-cs-lab.github.io/reading-group/#U23-1">Ahadi &amp; Lister (2013)</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:left">6/16/2023</td>
 <td style="text-align:left">Russ Feldhausen</td>
-<td style="text-align:left">
-
-<a href="https://alt-cs-lab.github.io/reading-group/#U23-2">Hogan, Li &amp; Soosai Raj (2023)</a></td>
-</tr>
-<tr>
-<td style="text-align:left">6/23/2023</td>
-<td style="text-align:left"><em>No Meeting</em></td>
-<td style="text-align:left"></td>
+<td style="text-align:left"><a href="https://alt-cs-lab.github.io/reading-group/#U23-2">Hogan, Li &amp; Soosai Raj (2023)</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:left">6/30/2023</td>
 <td style="text-align:left">Sai Teja Erukude</td>
-<td style="text-align:left">
-
-<a href="https://alt-cs-lab.github.io/reading-group/#U23-3">Wang (2013)</a></td>
+<td style="text-align:left"><a href="https://alt-cs-lab.github.io/reading-group/#U23-3">Wang (2013)</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:left">7/7/2023</td>
 <td style="text-align:left">Namratha Kommineni</td>
-<td style="text-align:left">
-
-<a href="https://alt-cs-lab.github.io/reading-group/#U23-4">Utting et al. (2013)</a></td>
+<td style="text-align:left"><a href="https://alt-cs-lab.github.io/reading-group/#U23-4">Utting et al. (2013)</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:left">7/14/2023</td>
 <td style="text-align:left">Akhil Joshi</td>
-<td style="text-align:left">
-
-<a href="https://alt-cs-lab.github.io/reading-group/#U23-5">Ying et al. (2021)</a></td>
+<td style="text-align:left"><a href="https://alt-cs-lab.github.io/reading-group/#U23-5">Ying et al. (2021)</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:left">7/21/2023</td>
 <td style="text-align:left">Samatha Ereshi Akkamahadevi</td>
-<td style="text-align:left">
-
-<a href="https://alt-cs-lab.github.io/reading-group/#U23-6">Shell et al. (2016)</a></td>
-</tr>
-<tr>
-<td style="text-align:left">7/28/2023</td>
-<td style="text-align:left"><em>No Meeting</em></td>
-<td style="text-align:left"></td>
+<td style="text-align:left"><a href="https://alt-cs-lab.github.io/reading-group/#U23-6">Shell et al. (2016)</a>
+</td>
 </tr>
 <tr>
 <td style="text-align:left">8/4/2023</td>
 <td style="text-align:left">Zach Berard</td>
-<td style="text-align:left">
-
-<a href="https://alt-cs-lab.github.io/reading-group/#U23-8">YeckehZaare et al. (2022)</a></td>
+<td style="text-align:left"><a href="https://alt-cs-lab.github.io/reading-group/#U23-8">YeckehZaare et al. (2022)</a>
+</td>
 </tr>
 <tr>
-<td style="text-align:left">8/11/2023</td>
-<td style="text-align:left">TBD</td>
-<td style="text-align:left">
-
-<a href="https://alt-cs-lab.github.io/reading-group/#U23-9">TBD</a></td>
+<td style="text-align:left">8/30/2023</td>
+<td style="text-align:left">Nathan Bean</td>
+<td style="text-align:left"><a href="https://alt-cs-lab.github.io/reading-group/#F23-1">TBD</a>
+</td>
 </tr>
 <tr>
-<td style="text-align:left">8/18/2023</td>
+<td style="text-align:left">9/6/2023</td>
 <td style="text-align:left">TBD</td>
-<td style="text-align:left">
-
-<a href="https://alt-cs-lab.github.io/reading-group/#U23-10">TBD</a></td>
+<td style="text-align:left"><a href="https://alt-cs-lab.github.io/reading-group/#F23-2">TBD</a>
+</td>
 </tr>
 </tbody>
 </table>
 <h2 id="helpful-information">Helpful Information</h2>
 <ul>
-<li>
-
-<a href="files/0-template.docx">Paper Review Template</a></li>
-<li>
-
-<a href="files/0-template.pptx">Slides Template</a></li>
+<li><a href="files/0-template.docx">Paper Review Template</a>
+</li>
+<li><a href="files/0-template.pptx">Slides Template</a>
+</li>
 </ul>
 
 <div class="expand">
-    <a class="expand-label" onclick="$t=$(this); if($t.parent('.expand-expanded.expand-marked').length){ $t.next().css('display','none') }else if($t.parent('.expand-marked').length){ $t.next().css('display','block') }else{ $t.next('.expand-content').slideToggle(100); } $t.parent().toggleClass('expand-expanded');">
+    <input type="checkbox" id="expand-73c74d1e6c916dd7522ee33afbfa62ac" aria-controls="expandcontent-73c74d1e6c916dd7522ee33afbfa62ac" >
+    <label class="expand-label" for="expand-73c74d1e6c916dd7522ee33afbfa62ac" >
         <i class="fas fa-chevron-down"></i>
         <i class="fas fa-chevron-right"></i>
-        Reading Group FAQs (click to expand)...
-    </a>
-    <div class="expand-content" style="display: none;">
+        Reading Group FAQs (click to expand)&hellip;
+    </label>
+    <div id="expandcontent-73c74d1e6c916dd7522ee33afbfa62ac" class="expand-content">
+
 <ul>
 <li>
 <p><em>Where can I find good papers to review?</em></p>
 <ul>
-<li>
+<li><a href="http://er.lib.ksu.edu/login?url=http://portal.acm.org/dl.cfm?coll=portal&amp;dl=ACM" target="_blank">ACM Digital Library</a>
 
-<a href="http://er.lib.ksu.edu/login?url=http://portal.acm.org/dl.cfm?coll=portal&amp;dl=ACM" target="_blank" rel="noopener">ACM Digital Library</a>
 <ul>
 <li>Look for conferences/journals sponsored by SIGCSE (SIGCSE TS, ICER, ITiCSE, CompEd)</li>
 </ul>
 </li>
-<li>
-
-<a href="http://er.lib.ksu.edu/login?url=https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank" rel="noopener">IEEE Xplore</a></li>
-<li>
-
-<a href="https://peer.asee.org/" target="_blank" rel="noopener">ASEE Peer</a></li>
+<li><a href="http://er.lib.ksu.edu/login?url=https://ieeexplore.ieee.org/Xplore/home.jsp" target="_blank">IEEE Xplore</a>
+</li>
+<li><a href="https://peer.asee.org/" target="_blank">ASEE Peer</a>
+</li>
 <li>Google Scholar</li>
 <li><strong>Papers [to read]</strong> channel on ALT+CS Team</li>
 <li>Papers cited in previously read papers, or papers that cite previously read papers</li>
@@ -206,9 +189,8 @@
 <li>
 <p><em>What is the presenter responsible for?</em></p>
 <ul>
-<li>The presenter will choose the paper to review each week and let the lab directors know at least one week in advance. The paper link will be published in the <strong>Reading Group</strong> channel on the ALT+CS Team as well as the 
-
-<a href="https://alt-cs-lab.github.io/reading-group/" target="_blank" rel="noopener">Reading Group</a> page on the ALT+CS website.</li>
+<li>The presenter will choose the paper to review each week and let the lab directors know at least one week in advance. The paper link will be published in the <strong>Reading Group</strong> channel on the ALT+CS Team as well as the <a href="https://alt-cs-lab.github.io/reading-group/" target="_blank">Reading Group</a>
+ page on the ALT+CS website.</li>
 <li>The presenter will prepare a mock paper review using the template provided and share that with the group at the beginning of the reading group meeting.</li>
 <li>The presenter will also prepare a 10-15 minute presentation that summarizes the paper, explains any relevant background knowledge required, and starts the discussion.</li>
 <li>The presenter will lead the discussion by posing questions and inviting comments attendees.</li>
@@ -226,31 +208,28 @@
 <li>
 <p><em>What are some helpful resources for a reading group?</em></p>
 <ul>
-<li>
-
-<a href="https://msail.github.io/post/presenting_reading_group/" target="_blank" rel="noopener">Presenting to a Reading Group</a></li>
-<li>
-
-<a href="https://muratbuffalo.blogspot.com/2015/05/how-to-run-effective-paper-reading.html" target="_blank" rel="noopener">Running an Effective Reading Group</a></li>
+<li><a href="https://msail.github.io/post/presenting_reading_group/" target="_blank">Presenting to a Reading Group</a>
+</li>
+<li><a href="https://muratbuffalo.blogspot.com/2015/05/how-to-run-effective-paper-reading.html" target="_blank">Running an Effective Reading Group</a>
+</li>
 </ul>
 </li>
 </ul>
-
-    </div>
 </div>
+</div>
+<h2 id="fall-2023-papers">Fall 2023 Papers</h2>
+<h3 id="F23-1">8/30/2023 - TBD</h3>
+<p>TBD</p>
 <h2 id="summer-2023-papers">Summer 2023 Papers</h2>
 <h3 id="U23-1">6/9/2023 - Ahadi &amp; Lister (2013)</h3>
 <h6 id="geek-genes-prior-knowledge-stumbling-points-and-learning-edge-momentum-parts-of-the-one-elephant">Geek genes, prior knowledge, stumbling points and learning edge momentum: parts of the one elephant?</h6>
 <ul>
-<li>
-
-<a href="https://dl.acm.org/doi/10.1145/2493394.2493416" target="_blank" rel="noopener">Paper Link</a></li>
-<li>
-
-<a href="files/summer2023/1-ahadi_lister-2013.pdf">Review</a></li>
-<li>
-
-<a href="files/summer2023/1-ahadi_lister-2013.pptx">Slides</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/2493394.2493416" target="_blank">Paper Link</a>
+</li>
+<li><a href="files/summer2023/1-ahadi_lister-2013.pdf">Review</a>
+</li>
+<li><a href="files/summer2023/1-ahadi_lister-2013.pptx">Slides</a>
+</li>
 </ul>
 <p><strong>Abstract</strong></p>
 <blockquote>
@@ -259,15 +238,12 @@
 <h3 id="U23-2">6/16/2023 - Hogan, Li &amp; Soosai Raj (2023)</h3>
 <h6 id="cs0-vs-cs1-understanding-fears-and-confidence-amongst-non-majors-in-introductory-cs-courses">CS0 vs. CS1: Understanding Fears and Confidence amongst Non-majors in Introductory CS Courses</h6>
 <ul>
-<li>
-
-<a href="https://dl.acm.org/doi/10.1145/3545945.3569865" target="_blank" rel="noopener">Paper Link</a></li>
-<li>
-
-<a href="files/summer2023/2-hogan_li_soosai_raj.pdf">Review</a></li>
-<li>
-
-<a href="files/summer2023/2-hogan_li_soosai_raj.pptx">Slides</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3545945.3569865" target="_blank">Paper Link</a>
+</li>
+<li><a href="files/summer2023/2-hogan_li_soosai_raj.pdf">Review</a>
+</li>
+<li><a href="files/summer2023/2-hogan_li_soosai_raj.pptx">Slides</a>
+</li>
 </ul>
 <p><strong>Abstract</strong></p>
 <blockquote>
@@ -276,15 +252,12 @@
 <h3 id="U23-3">6/30/2023 - Wang (2013)</h3>
 <h6 id="examining-the-digital-divide-between-rural-and-urban-schools-technology-availability-teachers-integration-level-and-students-perception">Examining the Digital Divide between Rural and Urban Schools: Technology Availability, Teachers’ Integration Level and Students’ Perception</h6>
 <ul>
-<li>
-
-<a href="https://www.sciedu.ca/journal/index.php/jct/article/view/3512" target="_blank" rel="noopener">Paper Link</a></li>
-<li>
-
-<a href="files/summer2023/3-wang-review.pdf">Review</a></li>
-<li>
-
-<a href="files/summer2023/3-wang-slides.pptx">Slides</a></li>
+<li><a href="https://www.sciedu.ca/journal/index.php/jct/article/view/3512" target="_blank">Paper Link</a>
+</li>
+<li><a href="files/summer2023/3-wang-review.pdf">Review</a>
+</li>
+<li><a href="files/summer2023/3-wang-slides.pptx">Slides</a>
+</li>
 </ul>
 <p><strong>Abstract</strong></p>
 <blockquote>
@@ -293,15 +266,12 @@
 <h3 id="U23-4">7/7/2023 - Utting et al. (2013)</h3>
 <h6 id="a-fresh-look-at-novice-programmers-performance-and-their-teachers-expectations">A Fresh Look at Novice Programmers&rsquo; Performance and their Teachers&rsquo; Expectations</h6>
 <ul>
-<li>
-
-<a href="https://dl.acm.org/doi/10.1145/2543882.2543884" target="_blank" rel="noopener">Paper Link</a></li>
-<li>
-
-<a href="files/summer2023/4-utting-review.pdf">Review</a></li>
-<li>
-
-<a href="files/summer2023/4-utting-slides.pptx">Slides</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/2543882.2543884" target="_blank">Paper Link</a>
+</li>
+<li><a href="files/summer2023/4-utting-review.pdf">Review</a>
+</li>
+<li><a href="files/summer2023/4-utting-slides.pptx">Slides</a>
+</li>
 </ul>
 <p><strong>Abstract</strong></p>
 <blockquote>
@@ -310,15 +280,12 @@
 <h3 id="U23-5">7/14/2023 - Ying et al. (2021)</h3>
 <h6 id="cs1-students-perspectives-on-the-computer-science-gender-gap-achieving-equity-requires-awareness">CS1 Students&rsquo; Perspectives on the Computer Science Gender Gap: Achieving Equity Requires Awareness</h6>
 <ul>
-<li>
-
-<a href="https://doi.org/10.1109/RESPECT51740.2021.9620659" target="_blank" rel="noopener">Paper Link</a></li>
-<li>
-
-<a href="files/summer2023/5-ying-review.pdf">Review</a></li>
-<li>
-
-<a href="files/summer2023/5-ying-slides.pptx">Slides</a></li>
+<li><a href="https://doi.org/10.1109/RESPECT51740.2021.9620659" target="_blank">Paper Link</a>
+</li>
+<li><a href="files/summer2023/5-ying-review.pdf">Review</a>
+</li>
+<li><a href="files/summer2023/5-ying-slides.pptx">Slides</a>
+</li>
 </ul>
 <p><strong>Abstract</strong></p>
 <blockquote>
@@ -327,15 +294,12 @@
 <h3 id="U23-6">7/21/2023 - Shell et al. (2016)</h3>
 <h6 id="students-initial-course-motivation-and-their-achievement-and-retention-in-college-cs1-courses">Students&rsquo; Initial Course Motivation and Their Achievement and Retention in College CS1 Courses</h6>
 <ul>
-<li>
-
-<a href="https://doi.org/10.1145/2839509.2844606" target="_blank" rel="noopener">Paper Link</a></li>
-<li>
-
-<a href="files/summer2023/6-shell-review.pdf">Review</a></li>
-<li>
-
-<a href="files/summer2023/6-shell-slides.pptx">Slides</a></li>
+<li><a href="https://doi.org/10.1145/2839509.2844606" target="_blank">Paper Link</a>
+</li>
+<li><a href="files/summer2023/6-shell-review.pdf">Review</a>
+</li>
+<li><a href="files/summer2023/6-shell-slides.pptx">Slides</a>
+</li>
 </ul>
 <p><strong>Abstract</strong></p>
 <blockquote>
@@ -344,15 +308,12 @@
 <h3 id="U23-8">8/4/2023 - YeckehZaare et al. (2022)</h3>
 <h6 id="another-victim-of-covid-19-computer-science-education">Another Victim of COVID-19: Computer Science Education</h6>
 <ul>
-<li>
-
-<a href="https://doi.org/10.1145/3478431.3499313" target="_blank" rel="noopener">Paper Link</a></li>
-<li>
-
-<a href="files/summer2023/8-yeckehzaare-review.pdf">Review</a></li>
-<li>
-
-<a href="files/summer2023/8-yeckehzaare-slides.pptx">Slides</a></li>
+<li><a href="https://doi.org/10.1145/3478431.3499313" target="_blank">Paper Link</a>
+</li>
+<li><a href="files/summer2023/8-yeckehzaare-review.pdf">Review</a>
+</li>
+<li><a href="files/summer2023/8-yeckehzaare-slides.pptx">Slides</a>
+</li>
 </ul>
 <p><strong>Abstract</strong></p>
 <blockquote>
@@ -360,6 +321,7 @@
 </blockquote>
 
             <footer class="footline">
+
             </footer>
           </article>
         </div>
@@ -368,12 +330,10 @@
     
     
     
-    <script src="https://alt-cs-lab.github.io/js/clipboard.min.js?1690839755" defer></script>
-    <script src="https://alt-cs-lab.github.io/js/perfect-scrollbar.min.js?1690839755" defer></script>
-    <script src="https://alt-cs-lab.github.io/js/featherlight.min.js?1690839755" defer></script>
-    <script src="https://alt-cs-lab.github.io/js/theme.js?1690839755" defer></script>
+    <script src="https://alt-cs-lab.github.io/js/clipboard.min.js?1692802186" defer></script>
+    <script src="https://alt-cs-lab.github.io/js/perfect-scrollbar.min.js?1692802186" defer></script>
+    <script src="https://alt-cs-lab.github.io/js/theme.js?1692802186" defer></script>
     
-    <script src="https://alt-cs-lab.github.io/js/embed-iframe.js?1690839755 defer"></script>
-    
+    <script src="https://alt-cs-lab.github.io/js/embed-iframe.js?1692802186 defer"></script>
   </body>
 </html>
