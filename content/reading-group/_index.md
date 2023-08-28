@@ -20,7 +20,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 | 7/14/2023 | Akhil Joshi | [Ying et al. (2021)]({{< ref "reading-group#U23-5" >}}) |
 | 7/21/2023 | Samatha Ereshi Akkamahadevi | [Shell et al. (2016)]({{< ref "reading-group#U23-6" >}}) |
 | 8/4/2023 | Zach Berard | [YeckehZaare et al. (2022)]({{< ref "reading-group#U23-8" >}}) |
-| 8/30/2023 | Nathan Bean | [TBD]({{< ref "reading-group#F23-1" >}}) |
+| 8/30/2023 | Nathan Bean | [Neo-Piagetian Theory as a Guide to Curriculum Analysis]({{< ref "reading-group#F23-1" >}}) |
 | 9/6/2023 | TBD | [TBD]({{< ref "reading-group#F23-2" >}}) |
 
 ## Helpful Information
@@ -59,9 +59,13 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 ## Fall 2023 Papers
 
-### 8/30/2023 - TBD {#F23-1}
+### 8/30/2023 - Neo-Piagetian Theory as a Guide to Curriculum Analysis {#F23-1}
 
-TBD
+* [Paper Link](http://dx.doi.org/10.1145/2538862.2538910)
+
+**Abstract**
+
+> The development of a coherent curriculum, encapsulating appropriate topics, learning materials and assessment, is crucial for a successful educational experience. However, designing such a curriculum is a complicated task, with challenges in tracing the development of concepts across multiple courses and ensuring that assessment is at an appropriate level at specific points in the curricula. In this paper, we introduce a curriculum mapping framework based on Neo-Piagetian theory that assists lecturers in tracing concept development and assessment throughout their courses. This framework supports the identification of prerequisite concepts, where students are already assumed to be aware of specific topics, and assessment leaps, where students are assessed at a different conceptual level than they have been taught. We illustrate the application of our framework through a case study analysing the syllabus of a sequence of three first year programming courses.
 
 ## Summer 2023 Papers
 
