@@ -13,7 +13,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 | Date | Presenter | Paper |
 |:-----|:----------|:------|
-| 8/30/2023 | Nathan Bean | [Szabo & Falkner (2014)]({{< ref "reading-group#F23-1>}}) |
+| 8/30/2023 | Nathan Bean | [Szabo & Falkner (2014)]({{< ref "reading-group#F23-1">}}) |
 | 6/9/2023 | Russ Feldhausen | [Ahadi & Lister (2013)]({{< ref "reading-group#U23-1" >}}) |
 | 6/16/2023 | Russ Feldhausen | [Hogan, Li & Soosai Raj (2023)]({{< ref "reading-group#U23-2" >}}) |
 | 6/30/2023 | Sai Teja Erukude | [Wang (2013)]({{< ref "reading-group#U23-3" >}}) |
