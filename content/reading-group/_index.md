@@ -13,6 +13,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 | Date | Presenter | Paper |
 |:-----|:----------|:------|
+| 8/30/2023 | Nathan Bean | [Szabo & Falkner (2014)]({{< ref "reading-group#F23-1>}}) |
 | 6/9/2023 | Russ Feldhausen | [Ahadi & Lister (2013)]({{< ref "reading-group#U23-1" >}}) |
 | 6/16/2023 | Russ Feldhausen | [Hogan, Li & Soosai Raj (2023)]({{< ref "reading-group#U23-2" >}}) |
 | 6/30/2023 | Sai Teja Erukude | [Wang (2013)]({{< ref "reading-group#U23-3" >}}) |
@@ -62,6 +63,8 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 ### 8/30/2023 - Neo-Piagetian Theory as a Guide to Curriculum Analysis {#F23-1}
 
 * [Paper Link](http://dx.doi.org/10.1145/2538862.2538910)
+* [Review](files/fall2023/1-szabo_falkner-2014.pdf)
+* [Slides](files/fall2023/1-szabo_falkner-2014.pptx)
 
 **Abstract**
 
