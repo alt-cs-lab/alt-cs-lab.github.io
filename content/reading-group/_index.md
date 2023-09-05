@@ -22,7 +22,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 | 7/21/2023 | Samatha Ereshi Akkamahadevi | [Shell et al. (2016)]({{< ref "reading-group#U23-6" >}}) |
 | 8/4/2023 | Zach Berard | [YeckehZaare et al. (2022)]({{< ref "reading-group#U23-8" >}}) |
 | 8/30/2023 | Nathan Bean | [Neo-Piagetian Theory as a Guide to Curriculum Analysis]({{< ref "reading-group#F23-1" >}}) |
-| 9/6/2023 | TBD | [TBD]({{< ref "reading-group#F23-2" >}}) |
+| 9/6/2023 | Friday James | [Plagiarism Deterrence in CS1 Through Keystroke Data]({{< ref "reading-group#F23-2" >}}) |
 
 ## Helpful Information
 
@@ -69,6 +69,16 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 **Abstract**
 
 > The development of a coherent curriculum, encapsulating appropriate topics, learning materials and assessment, is crucial for a successful educational experience. However, designing such a curriculum is a complicated task, with challenges in tracing the development of concepts across multiple courses and ensuring that assessment is at an appropriate level at specific points in the curricula. In this paper, we introduce a curriculum mapping framework based on Neo-Piagetian theory that assists lecturers in tracing concept development and assessment throughout their courses. This framework supports the identification of prerequisite concepts, where students are already assumed to be aware of specific topics, and assessment leaps, where students are assessed at a different conceptual level than they have been taught. We illustrate the application of our framework through a case study analysing the syllabus of a sequence of three first year programming courses.
+
+### 9/6/2023 - Plagiarism Deterrence in CS1 Through Keystroke Data {#F23-2}
+
+* [Paper Link](https://dl.acm.org/doi/10.1145/3545945.3569805)
+* Review
+* Slides
+
+**Abstract**
+
+> Recent work in computing education has explored the idea of analyzing and grading using the process of writing a computer program rather than just the final submitted code. We build on this idea by investigating the effect on plagiarism when the process of coding, in the form of keystroke logs, is submitted for grading in addition to the final code. We report results from two terms of a university CS1 course in which students submitted keystroke logs. We find that when students are required to submit a log of keystrokes together with their written code they are less likely to plagiarize. In this paper we explore issues of implementation, adoption, deterrence, anxiety, and privacy. Our keystroke logging software is available in the form of an IDE plugin in a public plugin repository.
 
 ## Summer 2023 Papers
 
