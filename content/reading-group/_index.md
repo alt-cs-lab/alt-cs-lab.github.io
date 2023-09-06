@@ -73,8 +73,8 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 ### 9/6/2023 - Plagiarism Deterrence in CS1 Through Keystroke Data {#F23-2}
 
 * [Paper Link](https://dl.acm.org/doi/10.1145/3545945.3569805)
-* Review
-* Slides
+* [Review](files/fall2023/2-hart-review.pdf)
+* [Slides](files/fall2023/2-hart-slides.pptx)
 
 **Abstract**
 
