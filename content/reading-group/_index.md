@@ -23,6 +23,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 | 8/4/2023 | Zach Berard | [YeckehZaare et al. (2022)]({{< ref "reading-group#U23-8" >}}) |
 | 8/30/2023 | Nathan Bean | [Neo-Piagetian Theory as a Guide to Curriculum Analysis]({{< ref "reading-group#F23-1" >}}) |
 | 9/6/2023 | Friday James | [Plagiarism Deterrence in CS1 Through Keystroke Data]({{< ref "reading-group#F23-2" >}}) |
+| 9/13/2023 | Russ Feldhausen | [Engagement and Anonymity in Online Computer Science Course Forums]({{< ref "reading-group#F23-3" >}}) |
 
 ## Helpful Information
 
@@ -60,15 +61,15 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 ## Fall 2023 Papers
 
-### 8/30/2023 - Neo-Piagetian Theory as a Guide to Curriculum Analysis {#F23-1}
+### 9/13/2023 - Engagement and Anonymity in Online Computer Science Course Forums {#F23-3}
 
-* [Paper Link](http://dx.doi.org/10.1145/2538862.2538910)
-* [Review](files/fall2023/1-szabo_falkner-2014.pdf)
-* [Slides](files/fall2023/1-szabo_falkner-2014.pptx)
+* [Paper Link](https://dl.acm.org/doi/10.1145/3568813.3600121)
+* Review
+* Slides
 
 **Abstract**
 
-> The development of a coherent curriculum, encapsulating appropriate topics, learning materials and assessment, is crucial for a successful educational experience. However, designing such a curriculum is a complicated task, with challenges in tracing the development of concepts across multiple courses and ensuring that assessment is at an appropriate level at specific points in the curricula. In this paper, we introduce a curriculum mapping framework based on Neo-Piagetian theory that assists lecturers in tracing concept development and assessment throughout their courses. This framework supports the identification of prerequisite concepts, where students are already assumed to be aware of specific topics, and assessment leaps, where students are assessed at a different conceptual level than they have been taught. We illustrate the application of our framework through a case study analysing the syllabus of a sequence of three first year programming courses.
+> Online discussion boards, designed to facilitate learning from peers and instructors in an accessible space, are a vital part of course design, especially in large scale computer science classes. Previous work has shown that women in computer science tend to use anonymity more often than men on these boards, a trend not found in humanities, social science or business courses. In this work, we build on these findings using an intersectional lens, analyzing both gender and race/ethnicity. We find this combined analysis reveals differences in anonymity that are not apparent when examining gender alone. For example, we find a significantly greater difference in anonymity use between Hispanic men and women than would be expected from analyzing race/ethnicity and gender independently. We additionally analyze type of content (e.g., questions, answers), course, platform, and data source to characterize the many factors at play in measuring students’ choice to participate anonymously. In doing so, we show that different approaches used in prior work for eliciting information on gender — whether using registrar data, a survey, or imputing gender based on name — changes how over of students are classified, particularly affecting nonbinary students and Asian students. Understanding when students participate anonymously can help educators and platform designers to make students’ experience of online discussion boards more welcoming.
 
 ### 9/6/2023 - Plagiarism Deterrence in CS1 Through Keystroke Data {#F23-2}
 
@@ -79,6 +80,16 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 **Abstract**
 
 > Recent work in computing education has explored the idea of analyzing and grading using the process of writing a computer program rather than just the final submitted code. We build on this idea by investigating the effect on plagiarism when the process of coding, in the form of keystroke logs, is submitted for grading in addition to the final code. We report results from two terms of a university CS1 course in which students submitted keystroke logs. We find that when students are required to submit a log of keystrokes together with their written code they are less likely to plagiarize. In this paper we explore issues of implementation, adoption, deterrence, anxiety, and privacy. Our keystroke logging software is available in the form of an IDE plugin in a public plugin repository.
+
+### 8/30/2023 - Neo-Piagetian Theory as a Guide to Curriculum Analysis {#F23-1}
+
+* [Paper Link](http://dx.doi.org/10.1145/2538862.2538910)
+* [Review](files/fall2023/1-szabo_falkner-2014.pdf)
+* [Slides](files/fall2023/1-szabo_falkner-2014.pptx)
+
+**Abstract**
+
+> The development of a coherent curriculum, encapsulating appropriate topics, learning materials and assessment, is crucial for a successful educational experience. However, designing such a curriculum is a complicated task, with challenges in tracing the development of concepts across multiple courses and ensuring that assessment is at an appropriate level at specific points in the curricula. In this paper, we introduce a curriculum mapping framework based on Neo-Piagetian theory that assists lecturers in tracing concept development and assessment throughout their courses. This framework supports the identification of prerequisite concepts, where students are already assumed to be aware of specific topics, and assessment leaps, where students are assessed at a different conceptual level than they have been taught. We illustrate the application of our framework through a case study analysing the syllabus of a sequence of three first year programming courses.
 
 ## Summer 2023 Papers
 
