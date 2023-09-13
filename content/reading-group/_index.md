@@ -64,8 +64,8 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 ### 9/13/2023 - Engagement and Anonymity in Online Computer Science Course Forums {#F23-3}
 
 * [Paper Link](https://dl.acm.org/doi/10.1145/3568813.3600121)
-* Review
-* Slides
+* [Review](files/fall2023/3-sharma-et-al-review.docx)
+* [Slides](files/fall2023/3-sharma-et-al-slides.pptx)
 
 **Abstract**
 
