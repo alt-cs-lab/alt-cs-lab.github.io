@@ -1,7 +1,7 @@
 +++
 title = "Workshop & Conference"
-pre = "<b>C. </b>"
-weight = 1
+pre = " "
+weight = 40
 +++
 
 The K-State Advancing Learning & Teaching in Computer Science (ALT+CS) Lab is proud to host the Summer 2023 Teacher Training Workshop in conjunction with the Kansas Computer Science Teachers Association (CSTA) chapter annual conference.

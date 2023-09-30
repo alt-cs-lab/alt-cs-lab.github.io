@@ -1,7 +1,7 @@
 +++
 title = "Reading Group"
 pre = "<b>RG. </b>"
-weight = 2
+weight = 5
 +++
 
 This is the homepage of the ALT+CS CS Education Reading Group.
