@@ -1,0 +1,79 @@
+
+
+
+
+
+	
+	
+		
+
+	
+	
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyber Pipeline on ALT&#43;CS Lab</title>
+    <link>https://alt-cs-lab.github.io/cyber-pipeline/index.html</link>
+    <description>Recent content in Cyber Pipeline on ALT&#43;CS Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://alt-cs-lab.github.io/cyber-pipeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Courses</title>
+      <link>https://alt-cs-lab.github.io/cyber-pipeline/courses/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://alt-cs-lab.github.io/cyber-pipeline/courses/index.html</guid>
+      <description>Currently the Cyber Pipeline is offering two introductory computer science courses appropriate for Kansas high schools:
+CC110 - Introduction to Computing This course introduces students to the field of computing, including its history, development, hardware, and the basics of programming in Python. It is aligned with the Advanced Placement Computer Science Principles course, which allows schools teaching the class to offer the corresponding AP exam. CC210 - Fundamental Computer Programming Concepts This course teaches the foundational concepts of structured imperative programming using the Java language.</description>
+    </item>
+    <item>
+      <title>Professional Development</title>
+      <link>https://alt-cs-lab.github.io/cyber-pipeline/pd/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://alt-cs-lab.github.io/cyber-pipeline/pd/index.html</guid>
+      <description>The best way to help a student succeed in computer science is a prepared and knowledgeable mentor. The Cyber Pipeline seeks to address this need with a robust professional development program that consists of multiple graduate courses in Computer Science Education that culminate in a Graduate Certificate. These courses are:
+CC 710 - Introduction to Computing for Educators CC 711 - Computer Education Programming Fundamentals CC 730 - Computer Programming for Educators CC 750 - Data Structures and Algorithms for Educators I CC 751 - Data Structures and Algorithms for Educators II CC 760 - Advanced Computing for Educators CC 798 - Topics in Computing for Educators EDCI 765 - Contemporary Pedagogies for Teaching Computer Science EDCI 768 - Teaching Computer Science in Elementary Schools EDCI 769 - Teaching Computer Science in Secondary Schools In addition, these courses can be used as the content specialization courses for a Masters or Ph.</description>
+    </item>
+    <item>
+      <title>Ongoing Support</title>
+      <link>https://alt-cs-lab.github.io/cyber-pipeline/support/index.html</link>
+      <pubDate>Fri, 24 Aug 2018 10:53:26 -0500</pubDate>
+      <guid>https://alt-cs-lab.github.io/cyber-pipeline/support/index.html</guid>
+      <description>We have found a critical factor in the success of new computer science teachers is comprehensive support throughout both professional development coursework and in the first few years of teaching. We meet this need in multiple ways:
+The College of Engineering at Kansas State University has funded a helpdesk staffed by knowledgable Computer Science students (both graduate and undergraduate) who can answer many questions Cyber Pipeline teachers and students may have.</description>
+    </item>
+    <item>
+      <title>Workshop &amp; Conference</title>
+      <link>https://alt-cs-lab.github.io/cyber-pipeline/04-conference/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alt-cs-lab.github.io/cyber-pipeline/04-conference/index.html</guid>
+      <description>The K-State Advancing Learning &amp;amp; Teaching in Computer Science (ALT+CS) Lab is proud to host the Summer 2023 Teacher Training Workshop in conjunction with the Kansas Computer Science Teachers Association (CSTA) chapter annual conference.
+Travel &amp;amp; Logistics Conference Hotel: Holiday Inn Manhattan At the Campus Hotel reservations have been handled through the RSVP process. Make sure you get an itemized receipt after checkout! Parking Hotel guests have free parking at the conference hotel.</description>
+    </item>
+  </channel>
+</rss>
