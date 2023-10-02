@@ -35,6 +35,26 @@
 	
 	
 		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+
+	
+	
+		
+		
+		
+
+	
+	
+		
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -51,12 +71,20 @@
       <description>The Cyber Pipeline Initiative seeks to broaden participation in computing by assisting Kansas K-12 schools in bringing quality computer science instruction to all Kansas students. Computational thinking and programming are recognized as critical 21st century skills for every career, as the transformative impact of computer technology has come to bear on every aspect of our lives. Wether it be authoring original software, using data mining techniques to analyze the genome of a new bovine virus, creating computer models of the watersheds that recharge the Ogallala aquifer, or programming a drone to overfly a wheat field to assess hail damage, the techniques and skills of computer science have role to play in all Kansans&amp;rsquo; lives.</description>
     </item>
     <item>
+      <title>Scratch Activities</title>
+      <link>https://alt-cs-lab.github.io/scratch/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://alt-cs-lab.github.io/scratch/index.html</guid>
+      <description>These activities were developed by the Department of Computer Science at Kansas State University as examples of how computer science can be embedded in interdisciplinary activities and used in elementary and middles school classrooms. All activities provided are released under creative commons licenses and can be adapted to suit your needs.
+Have an idea for an activity you would like us to help you develop? Please contact us and let us know!</description>
+    </item>
+    <item>
       <title>Reading Group</title>
       <link>https://alt-cs-lab.github.io/reading-group/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://alt-cs-lab.github.io/reading-group/index.html</guid>
       <description>This is the homepage of the ALT+CS CS Education Reading Group.
-When: Wednesdays at 2:30 PM (Fall 2023) Where: ALT+CS Lab (DUE 2208) and via Zoom Schedule Date Presenter Paper 8/30/2023 Nathan Bean Szabo &amp;amp; Falkner (2014) 6/9/2023 Russ Feldhausen Ahadi &amp;amp; Lister (2013) 6/16/2023 Russ Feldhausen Hogan, Li &amp;amp; Soosai Raj (2023) 6/30/2023 Sai Teja Erukude Wang (2013) 7/7/2023 Namratha Kommineni Utting et al. (2013) 7/14/2023 Akhil Joshi Ying et al.</description>
+When: Wednesdays at 2:30 PM (Fall 2023) Where: ALT+CS Lab (DUE 2208) and via Zoom Schedule Date Presenter Paper 6/9/2023 Russ Feldhausen Ahadi &amp;amp; Lister (2013) 6/16/2023 Russ Feldhausen Hogan, Li &amp;amp; Soosai Raj (2023) 6/30/2023 Sai Teja Erukude Wang (2013) 7/7/2023 Namratha Kommineni Utting et al. (2013) 7/14/2023 Akhil Joshi Ying et al. (2021) 7/21/2023 Samatha Ereshi Akkamahadevi Shell et al.</description>
     </item>
   </channel>
 </rss>
