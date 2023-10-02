@@ -10,4 +10,4 @@ The Cyber Pipeline provides a complete - but customizable - Computer Science cur
 
 Since our full rollout in the 2022-23 academic year, 50+ teachers received free training and graduate credits to teach computer science and are reaching over 2,000 students in 41 school districts across the state!
 
-<img src="/images/cyber-pipeline-map.svg" alt="Cyber Pipeline Impact" />
+<img src="/images/ks-cyberpipeline-districts.svg" alt="Cyber Pipeline Impact" />
