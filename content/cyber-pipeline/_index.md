@@ -1,6 +1,6 @@
 +++
 title = "Cyber Pipeline"
-pre = "<b>CP. </b>"
+pre = "<b><i class='fas fa-prescription-bottle'></i>. </b>"
 weight = 2
 +++
 
