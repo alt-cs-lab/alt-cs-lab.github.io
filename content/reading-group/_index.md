@@ -6,7 +6,7 @@ weight = 5
 
 This is the homepage of the ALT+CS CS Education Reading Group.
 
-* **When**: Wednesdays at 2:30 PM (Fall 2023)
+* **When**: Mondays at 1:30 PM (Spring 2024)
 * **Where**: ALT+CS Lab (DUE 2208) and via [Zoom](https://ksu.zoom.us/j/95100060366?pwd=dXBwcWlLWTNOcVd0T05Pay9KcFhtUT09)
 
 ## Schedule
@@ -60,6 +60,18 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 {{% /expand %}}
 
+## Spring 2024 Papers
+
+### 1/22/2024 - TBA
+
+* Paper Link
+
+**Abstract**
+
+TBA
+
+<hr />
+
 ## Fall 2023 Papers
 
 ### 8/4/2023 - Spencer et al. (2023) {#F23-4}
@@ -71,8 +83,6 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 **Abstract**
 
 > Integrating programming activities into core mathematics instruction can increase children’s access to critical content. Programming gives children a language with which to express, refine, and extend their thinking.
-
-
 
 ### 9/13/2023 - Engagement and Anonymity in Online Computer Science Course Forums {#F23-3}
 
@@ -104,6 +114,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 > The development of a coherent curriculum, encapsulating appropriate topics, learning materials and assessment, is crucial for a successful educational experience. However, designing such a curriculum is a complicated task, with challenges in tracing the development of concepts across multiple courses and ensuring that assessment is at an appropriate level at specific points in the curricula. In this paper, we introduce a curriculum mapping framework based on Neo-Piagetian theory that assists lecturers in tracing concept development and assessment throughout their courses. This framework supports the identification of prerequisite concepts, where students are already assumed to be aware of specific topics, and assessment leaps, where students are assessed at a different conceptual level than they have been taught. We illustrate the application of our framework through a case study analysing the syllabus of a sequence of three first year programming courses.
 
+<hr />
 
 ## Summer 2023 Papers
 
