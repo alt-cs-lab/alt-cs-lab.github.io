@@ -75,7 +75,7 @@
 	
 	
 		
-[
+var relearn_search_index = [
   {
     "content": "",
     "description": "",
