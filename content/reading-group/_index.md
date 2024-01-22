@@ -13,18 +13,19 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 | Date | Presenter | Paper |
 |:-----|:----------|:------|
-| 6/9/2023 | Russ Feldhausen | [Ahadi & Lister (2013)]({{< ref "reading-group#U23-1" >}}) |
-| 6/16/2023 | Russ Feldhausen | [Hogan, Li & Soosai Raj (2023)]({{< ref "reading-group#U23-2" >}}) |
-| 6/30/2023 | Sai Teja Erukude | [Wang (2013)]({{< ref "reading-group#U23-3" >}}) |
-| 7/7/2023 | Namratha Kommineni | [Utting et al. (2013)]({{< ref "reading-group#U23-4" >}}) |
-| 7/14/2023 | Akhil Joshi | [Ying et al. (2021)]({{< ref "reading-group#U23-5" >}}) |
-| 7/21/2023 | Samatha Ereshi Akkamahadevi | [Shell et al. (2016)]({{< ref "reading-group#U23-6" >}}) |
-| 8/4/2023 | Zach Berard | [YeckehZaare et al. (2022)]({{< ref "reading-group#U23-8" >}}) |
-| 8/30/2023 | Nathan Bean | [Neo-Piagetian Theory as a Guide to Curriculum Analysis]({{< ref "reading-group#F23-1" >}}) |
-| 9/6/2023 | Friday James | [Plagiarism Deterrence in CS1 Through Keystroke Data]({{< ref "reading-group#F23-2" >}}) |
+| 1/22/2024 | Russ Feldhausen | [Exploring CS1 Student's Notions of Code Quality]({{< ref "#S24-1" >}})
+| 10/4/2023 | Nathan Bean | [Using Programming to Express Mathematical Ideas]({{<
+ref "reading-group#F23-4">}})
 | 9/13/2023 | Russ Feldhausen | [Engagement and Anonymity in Online Computer Science Course Forums]({{< ref "reading-group#F23-3" >}}) |
-| 10/4/2023 | Nathan Bean | [Spencer et. al (2023)]({{<ref "reading-group#F23-4">}})
-
+| 9/6/2023 | Friday James | [Plagiarism Deterrence in CS1 Through Keystroke Data]({{< ref "reading-group#F23-2" >}}) |
+| 8/30/2023 | Nathan Bean | [Neo-Piagetian Theory as a Guide to Curriculum Analysis]({{< ref "reading-group#F23-1" >}}) |
+| 8/4/2023 | Zach Berard | [Another Victim of COVID-19: Computer Science Education]({{< ref "reading-group#U23-8" >}}) |
+| 7/21/2023 | Samatha Ereshi Akkamahadevi | [Students' Initial Course Motivation and Their Achievement and Retention in College CS1 Courses]({{< ref "reading-group#U23-6" >}}) |
+| 7/14/2023 | Akhil Joshi | [CS1 Students' Perspectives on the Computer Science Gender Gap: Achieving Equity Requires Awareness]({{< ref "reading-group#U23-5" >}}) |
+| 7/7/2023 | Namratha Kommineni | [A Fresh Look at Novice Programmers' Performance and their Teachers' Expectations]({{< ref "reading-group#U23-4" >}}) |
+| 6/30/2023 | Sai Teja Erukude | [Examining the Digital Divide between Rural and Urban Schools: Technology Availability, Teachers’ Integration Level and Students’ Perception]({{< ref "reading-group#U23-3" >}}) |
+| 6/16/2023 | Russ Feldhausen | [CS0 vs. CS1: Understanding Fears and Confidence amongst Non-majors in Introductory CS Courses]({{< ref "reading-group#U23-2" >}}) |
+| 6/9/2023 | Russ Feldhausen | [Geek genes, prior knowledge, stumbling points and learning edge momentum: parts of the one elephant?]({{< ref "reading-group#U23-1" >}}) |
 
 ## Helpful Information
 
@@ -62,27 +63,21 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 ## Spring 2024 Papers
 
-### 1/22/2024 - TBA
+### 1/22/2024 - Izu & Mirolo (2023) {#F23-4}
 
-* Paper Link
+###### Exploring CS1 Student’s Notions of Code Quality
+
+* [Paper Link](https://dl.acm.org/doi/10.1145/3587102.3588808)
 
 **Abstract**
 
-TBA
+> Coding tasks combined with other activities such as Explain in Plain English or Parson Puzzles help CS1 students to develop core programming skills. Students usually receive feedback of code correctness but limited or no feedback on their code quality. Teaching students to evaluate and improve the quality of their code once it is functionally correct should be included in the curricula towards the end of CS1 or during CS2. However, little is known about the student's perceptions of code quality at the end of a CS1 course.
+
+> This study aims to capture their developing notions of code quality, in order to tailor class activities to support code quality improvements. We directed students to think about the overall quality of small programs by asking them to rank a small set of solutions for a simple problem solving task. Their rankings and explanations have been analysed to identify the criteria underlying their quality assessments. The top quality criteria were Performance (64%), Structure (51%), Conciseness (42%) and Comprehensibility (42%). Although fast execution is a key criteria for ranking, their explanations on why a given option was fast were often flawed, indicating students need more support both to evaluate performance and to include readability or comprehensibility criteria in their assessment.
 
 <hr />
 
 ## Fall 2023 Papers
-
-### 8/4/2023 - Spencer et al. (2023) {#F23-4}
-
-###### Using Programming to Express Mathematical Ideas
-
-* [Paper Link](https://pubs.nctm.org/view/journals/mtlt/116/5/article-p322.xml)
-
-**Abstract**
-
-> Integrating programming activities into core mathematics instruction can increase children’s access to critical content. Programming gives children a language with which to express, refine, and extend their thinking.
 
 ### 9/13/2023 - Engagement and Anonymity in Online Computer Science Course Forums {#F23-3}
 
@@ -114,69 +109,31 @@ TBA
 
 > The development of a coherent curriculum, encapsulating appropriate topics, learning materials and assessment, is crucial for a successful educational experience. However, designing such a curriculum is a complicated task, with challenges in tracing the development of concepts across multiple courses and ensuring that assessment is at an appropriate level at specific points in the curricula. In this paper, we introduce a curriculum mapping framework based on Neo-Piagetian theory that assists lecturers in tracing concept development and assessment throughout their courses. This framework supports the identification of prerequisite concepts, where students are already assumed to be aware of specific topics, and assessment leaps, where students are assessed at a different conceptual level than they have been taught. We illustrate the application of our framework through a case study analysing the syllabus of a sequence of three first year programming courses.
 
+### 8/4/2023 - Spencer et al. (2023) {#F23-4}
+
+###### Using Programming to Express Mathematical Ideas
+
+* [Paper Link](https://pubs.nctm.org/view/journals/mtlt/116/5/article-p322.xml)
+
+**Abstract**
+
+> Integrating programming activities into core mathematics instruction can increase children’s access to critical content. Programming gives children a language with which to express, refine, and extend their thinking.
+
 <hr />
 
 ## Summer 2023 Papers
 
-### 6/9/2023 - Ahadi & Lister (2013) {#U23-1}
+### 8/4/2023 - YeckehZaare et al. (2022) {#U23-8}
 
-###### Geek genes, prior knowledge, stumbling points and learning edge momentum: parts of the one elephant?
+###### Another Victim of COVID-19: Computer Science Education
 
-* [Paper Link](https://dl.acm.org/doi/10.1145/2493394.2493416)
-* [Review](files/summer2023/1-ahadi_lister-2013.pdf)
-* [Slides](files/summer2023/1-ahadi_lister-2013.pptx)
-
-**Abstract**
-
-> Computing academics report bimodal grade distributions in their CS1 classes. Some academics believe that such a distribution is due to their being an innate talent for programming, a "geek gene". Robins introduced the concept of learning edge momentum, which offers an alternative explanation for the purported bimodal grade distribution. In this paper, we analyze empirical data from a real introductory programming class, looking for evidence of geek genes, learning edge momentum and other possible factors.
-
-### 6/16/2023 - Hogan, Li & Soosai Raj (2023) {#U23-2}
-
-###### CS0 vs. CS1: Understanding Fears and Confidence amongst Non-majors in Introductory CS Courses
-
-* [Paper Link](https://dl.acm.org/doi/10.1145/3545945.3569865)
-* [Review](files/summer2023/2-hogan_li_soosai_raj.pdf)
-* [Slides](files/summer2023/2-hogan_li_soosai_raj.pptx)
+* [Paper Link](https://doi.org/10.1145/3478431.3499313)
+* [Review](files/summer2023/8-yeckehzaare-review.pdf)
+* [Slides](files/summer2023/8-yeckehzaare-slides.pptx)
 
 **Abstract**
 
-> Previous research has been devoted to improving the experience of non-majors in introductory CS courses. In this study, we compare the experiences of non-majors in two different introductory CS courses, specifically with respect to fears about taking the course and change in confidence levels. CS0 is a computing course intentionally designed for non-majors, and CS1 is a more traditional introductory computing course. Both of these courses were composed primarily of non-majors and were taught by the same instructor. Survey data was collected from 124 students enrolled in CS0, and 502 students enrolled in CS1. Through qualitative analysis, we found that the fears of non-major students entering both of these introductory CS courses fell into one or more of nine distinct categories (e.g., Coding, Perceiving STEM as Difficult, Managing Workload). Additionally, using students' confidence levels at the beginning and end of the courses, we found that students in CS0 had a greater increase in confidence level than those in CS1. Finally, we explored connections between students' fears and how their confidence changed by the end of the course. We found that students across both courses with fears related to coding, lack of preparation, and being left behind had the highest average increase in confidence levels.
-
-### 6/30/2023 - Wang (2013) {#U23-3}
-
-###### Examining the Digital Divide between Rural and Urban Schools: Technology Availability, Teachers’ Integration Level and Students’ Perception
-
-* [Paper Link](https://www.sciedu.ca/journal/index.php/jct/article/view/3512)
-* [Review](files/summer2023/3-wang-review.pdf)
-* [Slides](files/summer2023/3-wang-slides.pptx)
-
-**Abstract**
-
-> This study aimed to explore the gap regarding technology integration between urban and rural schools based on theWill Skill Tool model. This study was guided by three main questions: 1) Is there any significant difference in terms of technology availability between rural and urban elementary schools?; 2) Is there any significant difference in terms of teachers’ attitudes, competence, levels and experiences in technology integration between rural and urban elementary schools?; 3) Is there any significant difference in terms of students’ attitudes, competence and experiences in technology integration between rural and urban elementary schools? This was a survey study with 275 teachers and 293 students as participants in southern Taiwan. Half of the participants came from regular urban schools and the other half were from disadvantaged rural schools. T-tests and Chi-Square tests were done to examine differences. The results showed that there was a significant difference in technology availability between rural and urban schools, including the number of interactive whiteboards, desktops in labs, notebooks, netbooks, and tablet computers. There was also a difference in teacher overall high-tech integration level between rural and urban schools.Urban teachers reached the level of “familiarity and confidence” but rural teachers only stayed at the level of“understanding and application of the process.” Teachers’ experience, purpose and difficulty in technology integration between rural and urban schools were also slightly different. In addition, there was a difference in students’ experience and preference in using technology to learn, especially using interactive whiteboards in learning.
-
-### 7/7/2023 - Utting et al. (2013) {#U23-4}
-
-###### A Fresh Look at Novice Programmers' Performance and their Teachers' Expectations
-
-* [Paper Link](https://dl.acm.org/doi/10.1145/2543882.2543884)
-* [Review](files/summer2023/4-utting-review.pdf)
-* [Slides](files/summer2023/4-utting-slides.pptx)
-
-**Abstract**
-
-> This paper describes the results of an ITiCSE working group convened in 2013 to review and revisit the influential ITiCSE 2001 McCracken working group that reported on novice programmers' ability to solve a specified programming problem. Like that study, the one described here asked students to implement a simple program. Unlike the original study, students' in this study were given significant scaffolding for their efforts, including a test harness. Their knowledge of programming concepts was also assessed via a standard language-neutral survey. One of the significant findings of the original working group was that students were less successful at the programming task than their teachers expected, so in this study teachers' expectations were explicitly gathered and matched with students' performance. This study found a significant correlation between students' performance in the practical task and the survey, and a significant effect on performance in the practical task attributable to the use of the test harness. The study also found a much better correlation between teachers' expectations of their students' performance than in the 2001 working group.
-
-### 7/14/2023 - Ying et al. (2021) {#U23-5}
-
-###### CS1 Students' Perspectives on the Computer Science Gender Gap: Achieving Equity Requires Awareness
-
-* [Paper Link](https://doi.org/10.1109/RESPECT51740.2021.9620659)
-* [Review](files/summer2023/5-ying-review.pdf)
-* [Slides](files/summer2023/5-ying-slides.pptx)
-
-**Abstract**
-
-> There are numerous initiatives to improve diversity within the computer science field. However, women still disproportionately drop CS majors and earn less than one quarter of CS bachelor's degrees in the United States. The extent to which CS students-especially male students-are aware of this gender gap is an open question. This paper reports on a study to investigate that question. We analyzed 325 CS1 students' survey responses and found significant differences between women's and men's awareness of the CS gender gap. Men were significantly less aware of the gender gap than women, and men had significantly milder beliefs about whether women experienced adversity in CS and whether there should be targeted efforts to support women. Twenty students (10 women and 10 men) participated in follow-up interviews after the survey, where they discussed their experiences and perceptions of the computer science gender gap. Even among students who were aware of the gender gap, many had a superficial understanding of its cause, believing it to be due to women having less natural interest in CS. We argue that these findings are a call-to-action: university CS curricula need to include diversity, equity, and inclusion (DEI) training so that students have a more complete understanding of this complex issue, and so that these misconceptions do not continue to be perpetuated into the workplace.
+> Prior literature suggests that computer science education (CSE) was less affected by the pandemic than other disciplines. However, it is unclear how the pandemic affected the quality and quantity of students' studying in CSE. We measure the impact of the pandemic on the amount and spacing of students' studying in a large introductory computer science course. Spacing is defined as the distribution of studying over multiple sessions, which is shown to improve long-term learning. Using multiple regression models, we analyzed the total number of students' interactions with the eBook and the number of days they used it, as a proxy for studying amount and spacing, respectively. We compared two sequential winter semesters of the course, one during (Winter 2021) and one prior to the pandemic (Winter 2020). After controlling for possible confounders, the results show that students had 1,345.87 fewer eBook interactions and distributed their studying on 2.36 fewer days during the pandemic when compared to the previous semester prior to the pandemic. We also compared four semesters prior to the pandemic (Fall and Winter of 2018 and 2019) to two semesters during the pandemic (Fall 2020 and Winter 2021). We found, on average, students had 3,376.30 fewer interactions with the eBook and studied the eBook on 16.35 fewer days during the pandemic. Contrary to prior studies, our results indicate that the pandemic negatively affected the amount and spacing of studying in an introductory computer science course, which may have a negative impact on their education.
 
 ### 7/21/2023 - Shell et al. (2016) {#U23-6}
 
@@ -190,14 +147,63 @@ TBA
 
 > The goal of this study was to investigate how students' entering motivation for the course in a suite of CS1 introductory computer science courses was associated with their subsequent course achievement and retention. Courses were tailored for specific student populations (CS majors, engineering majors, business-CS combined honors program). Students' goal orientations (learning, performance, task), perceived instrumentality (endogenous, exogenous), career connectedness, self-efficacy, and mindsets (growth or fixed) were assessed at the start of the course. Grades were significantly predicted from entering motivation; but prediction was highly variable across courses, ranging from not predicted for the engineering courses to highly predictable for the business-CS honors program. Course withdrawal was significantly predicted. Likelihood of withdrawing was decreased by future time career connectedness and learning approach goal orientation and increased by having an incremental theory of intelligence. Findings suggest that CS1 students who set learning approach goals for their classes have better academic outcomes and higher retention. Other motivational beliefs were inconsistent in their impacts and varied by course and student population. Except for students in an honors program, entering motivational beliefs weakly predicted achievement and retention, suggesting that impacts of the course itself on motivation and how motivation changes during the course are perhaps more important than student's initial motivation.
 
-### 8/4/2023 - YeckehZaare et al. (2022) {#U23-8}
+### 7/14/2023 - Ying et al. (2021) {#U23-5}
 
-###### Another Victim of COVID-19: Computer Science Education
+###### CS1 Students' Perspectives on the Computer Science Gender Gap: Achieving Equity Requires Awareness
 
-* [Paper Link](https://doi.org/10.1145/3478431.3499313)
-* [Review](files/summer2023/8-yeckehzaare-review.pdf)
-* [Slides](files/summer2023/8-yeckehzaare-slides.pptx)
+* [Paper Link](https://doi.org/10.1109/RESPECT51740.2021.9620659)
+* [Review](files/summer2023/5-ying-review.pdf)
+* [Slides](files/summer2023/5-ying-slides.pptx)
 
 **Abstract**
 
-> Prior literature suggests that computer science education (CSE) was less affected by the pandemic than other disciplines. However, it is unclear how the pandemic affected the quality and quantity of students' studying in CSE. We measure the impact of the pandemic on the amount and spacing of students' studying in a large introductory computer science course. Spacing is defined as the distribution of studying over multiple sessions, which is shown to improve long-term learning. Using multiple regression models, we analyzed the total number of students' interactions with the eBook and the number of days they used it, as a proxy for studying amount and spacing, respectively. We compared two sequential winter semesters of the course, one during (Winter 2021) and one prior to the pandemic (Winter 2020). After controlling for possible confounders, the results show that students had 1,345.87 fewer eBook interactions and distributed their studying on 2.36 fewer days during the pandemic when compared to the previous semester prior to the pandemic. We also compared four semesters prior to the pandemic (Fall and Winter of 2018 and 2019) to two semesters during the pandemic (Fall 2020 and Winter 2021). We found, on average, students had 3,376.30 fewer interactions with the eBook and studied the eBook on 16.35 fewer days during the pandemic. Contrary to prior studies, our results indicate that the pandemic negatively affected the amount and spacing of studying in an introductory computer science course, which may have a negative impact on their education.
+> There are numerous initiatives to improve diversity within the computer science field. However, women still disproportionately drop CS majors and earn less than one quarter of CS bachelor's degrees in the United States. The extent to which CS students-especially male students-are aware of this gender gap is an open question. This paper reports on a study to investigate that question. We analyzed 325 CS1 students' survey responses and found significant differences between women's and men's awareness of the CS gender gap. Men were significantly less aware of the gender gap than women, and men had significantly milder beliefs about whether women experienced adversity in CS and whether there should be targeted efforts to support women. Twenty students (10 women and 10 men) participated in follow-up interviews after the survey, where they discussed their experiences and perceptions of the computer science gender gap. Even among students who were aware of the gender gap, many had a superficial understanding of its cause, believing it to be due to women having less natural interest in CS. We argue that these findings are a call-to-action: university CS curricula need to include diversity, equity, and inclusion (DEI) training so that students have a more complete understanding of this complex issue, and so that these misconceptions do not continue to be perpetuated into the workplace.
+
+
+### 7/7/2023 - Utting et al. (2013) {#U23-4}
+
+###### A Fresh Look at Novice Programmers' Performance and their Teachers' Expectations
+
+* [Paper Link](https://dl.acm.org/doi/10.1145/2543882.2543884)
+* [Review](files/summer2023/4-utting-review.pdf)
+* [Slides](files/summer2023/4-utting-slides.pptx)
+
+**Abstract**
+
+> This paper describes the results of an ITiCSE working group convened in 2013 to review and revisit the influential ITiCSE 2001 McCracken working group that reported on novice programmers' ability to solve a specified programming problem. Like that study, the one described here asked students to implement a simple program. Unlike the original study, students' in this study were given significant scaffolding for their efforts, including a test harness. Their knowledge of programming concepts was also assessed via a standard language-neutral survey. One of the significant findings of the original working group was that students were less successful at the programming task than their teachers expected, so in this study teachers' expectations were explicitly gathered and matched with students' performance. This study found a significant correlation between students' performance in the practical task and the survey, and a significant effect on performance in the practical task attributable to the use of the test harness. The study also found a much better correlation between teachers' expectations of their students' performance than in the 2001 working group.
+
+### 6/30/2023 - Wang (2013) {#U23-3}
+
+###### Examining the Digital Divide between Rural and Urban Schools: Technology Availability, Teachers’ Integration Level and Students’ Perception
+
+* [Paper Link](https://www.sciedu.ca/journal/index.php/jct/article/view/3512)
+* [Review](files/summer2023/3-wang-review.pdf)
+* [Slides](files/summer2023/3-wang-slides.pptx)
+
+**Abstract**
+
+> This study aimed to explore the gap regarding technology integration between urban and rural schools based on theWill Skill Tool model. This study was guided by three main questions: 1) Is there any significant difference in terms of technology availability between rural and urban elementary schools?; 2) Is there any significant difference in terms of teachers’ attitudes, competence, levels and experiences in technology integration between rural and urban elementary schools?; 3) Is there any significant difference in terms of students’ attitudes, competence and experiences in technology integration between rural and urban elementary schools? This was a survey study with 275 teachers and 293 students as participants in southern Taiwan. Half of the participants came from regular urban schools and the other half were from disadvantaged rural schools. T-tests and Chi-Square tests were done to examine differences. The results showed that there was a significant difference in technology availability between rural and urban schools, including the number of interactive whiteboards, desktops in labs, notebooks, netbooks, and tablet computers. There was also a difference in teacher overall high-tech integration level between rural and urban schools.Urban teachers reached the level of “familiarity and confidence” but rural teachers only stayed at the level of“understanding and application of the process.” Teachers’ experience, purpose and difficulty in technology integration between rural and urban schools were also slightly different. In addition, there was a difference in students’ experience and preference in using technology to learn, especially using interactive whiteboards in learning.
+
+### 6/16/2023 - Hogan, Li & Soosai Raj (2023) {#U23-2}
+
+###### CS0 vs. CS1: Understanding Fears and Confidence amongst Non-majors in Introductory CS Courses
+
+* [Paper Link](https://dl.acm.org/doi/10.1145/3545945.3569865)
+* [Review](files/summer2023/2-hogan_li_soosai_raj.pdf)
+* [Slides](files/summer2023/2-hogan_li_soosai_raj.pptx)
+
+**Abstract**
+
+> Previous research has been devoted to improving the experience of non-majors in introductory CS courses. In this study, we compare the experiences of non-majors in two different introductory CS courses, specifically with respect to fears about taking the course and change in confidence levels. CS0 is a computing course intentionally designed for non-majors, and CS1 is a more traditional introductory computing course. Both of these courses were composed primarily of non-majors and were taught by the same instructor. Survey data was collected from 124 students enrolled in CS0, and 502 students enrolled in CS1. Through qualitative analysis, we found that the fears of non-major students entering both of these introductory CS courses fell into one or more of nine distinct categories (e.g., Coding, Perceiving STEM as Difficult, Managing Workload). Additionally, using students' confidence levels at the beginning and end of the courses, we found that students in CS0 had a greater increase in confidence level than those in CS1. Finally, we explored connections between students' fears and how their confidence changed by the end of the course. We found that students across both courses with fears related to coding, lack of preparation, and being left behind had the highest average increase in confidence levels.
+
+### 6/9/2023 - Ahadi & Lister (2013) {#U23-1}
+
+###### Geek genes, prior knowledge, stumbling points and learning edge momentum: parts of the one elephant?
+
+* [Paper Link](https://dl.acm.org/doi/10.1145/2493394.2493416)
+* [Review](files/summer2023/1-ahadi_lister-2013.pdf)
+* [Slides](files/summer2023/1-ahadi_lister-2013.pptx)
+
+**Abstract**
+
+> Computing academics report bimodal grade distributions in their CS1 classes. Some academics believe that such a distribution is due to their being an innate talent for programming, a "geek gene". Robins introduced the concept of learning edge momentum, which offers an alternative explanation for the purported bimodal grade distribution. In this paper, we analyze empirical data from a real introductory programming class, looking for evidence of geek genes, learning edge momentum and other possible factors.
