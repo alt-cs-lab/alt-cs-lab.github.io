@@ -13,6 +13,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 | Date | Presenter | Paper |
 |:-----|:----------|:------|
+| 1/29/2024 | Friday James | [Sometimes It's Just Sloppiness - Studying Students' Programming Errors and Misconceptions]({{< ref "#S24-2" >}})
 | 1/22/2024 | Russ Feldhausen | [Exploring CS1 Student's Notions of Code Quality]({{< ref "#S24-1" >}})
 | 10/4/2023 | Nathan Bean | [Using Programming to Express Mathematical Ideas]({{<
 ref "reading-group#F23-4">}})
@@ -62,6 +63,16 @@ ref "reading-group#F23-4">}})
 {{% /expand %}}
 
 ## Spring 2024 Papers
+
+### 1/29/2024 - Albrecht & Grabowski (2020)
+
+###### Sometimes It's Just Sloppiness - Studying Students' Programming Errors and Misconceptions
+
+* [Paper Link](https://dl.acm.org/doi/10.1145/3328778.3366862)
+
+**Abstract**
+
+> Knowledge about students' programming errors is a valuable source to get insights into students deficiencies and misconceptions. In this paper, we use data from an introductory C programming course to identify which errors are often made by students. Previous studies often focused only on syntactic and semantic errors as they can be easily identified by compilers. Studies focusing on logic errors were often restricted to a limited set of concepts or performed for a small set of data. We manually inspect 12371 submission by 280 students and have no restrictions regarding the error types we are looking for. We classify our found errors into six categories: syntactic, conceptual, strategic, sloppiness, misinterpretation, and domain knowledge. Our results show that a big portion of errors made by students is simply caused by sloppiness. But putting sloppiness aside, students seem to have most problems with strategic knowledge, i.e., the problem solving ability. We compare our results to previous studies and provide some implications of our results for future teaching practice.
 
 ### 1/22/2024 - Izu & Mirolo (2023) {#F23-4}
 
