@@ -13,7 +13,8 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 | Date | Presenter | Paper |
 |:-----|:----------|:------|
-| 1/29/2024 | Friday James | [Sometimes It's Just Sloppiness - Studying Students' Programming Errors and Misconceptions]({{< ref "#S24-2" >}})
+| 2/5/2024 | Nathan Bean | [Arguments for and Approaches to Computing Education in Undergraduate Computer Science Programmes]({{< ref "#S24-3" >}}) |
+| 1/29/2024 | Friday James | [Sometimes It's Just Sloppiness - Studying Students' Programming Errors and Misconceptions]({{< ref "#S24-2" >}}) |
 | 1/22/2024 | Russ Feldhausen | [Exploring CS1 Student's Notions of Code Quality]({{< ref "#S24-1" >}})
 | 10/4/2023 | Nathan Bean | [Using Programming to Express Mathematical Ideas]({{<
 ref "reading-group#F23-4">}})
@@ -64,7 +65,15 @@ ref "reading-group#F23-4">}})
 
 ## Spring 2024 Papers
 
-### 1/29/2024 - Albrecht & Grabowski (2020)
+### 2/5/2024 - Cutts, Kallia, Anderson, et. al (2023) {#S24-3}
+
+* [Paper Link](https://dl.acm.org/doi/10.1145/3623762.3633494)
+
+**Abstract**
+
+> Computing education (CE), the scientific foundation of the teaching and learning of subject matter specific to computing, has matured into a field with its own research journals and conferences as well as graduate programmes. Yet, and unlike other mature subfields of computer science (CS), it is rarely taught as part of undergraduate CS programmes. In this report, we present a gap analysis resulting from semi-structured interviews with various types of stakeholders and derive a set of arguments for teaching CE courses in undergraduate CS programmes. This analysis and the arguments highlight a number of opportunities for the discipline of CS at large, in academia, in industry, and in school education, that would be opened up with undergraduate CE courses, as well as potential barriers to implementation that will need to be overcome. We also report on the results of a Delphi process performed to elicit top- ics for such a course with various audiences in mind. The Delphi process yielded 19 high-level categories that encompass the subject matter CE courses should incorporate, tailored to the specific needs of their intended student audiences. This outcome underscores the extensive range of content that can be integrated into a comprehensive CE programme. Based on these two stakeholder interactions as well as a systematic literature review aiming to explore the current practices in teaching CE to undergraduate students, we develop two prototypical outlines of such a course, keeping in mind that departments may have different preferences and affordances resulting in different kinds of CE offerings. Overall, input from external stakeholders underscores the clear significance of undergraduate CE courses. We anticipate leveraging this valuable feedback to actively promote these courses on a broader scale.
+
+### 1/29/2024 - Albrecht & Grabowski (2020) {#S24-2}
 
 ###### Sometimes It's Just Sloppiness - Studying Students' Programming Errors and Misconceptions
 
