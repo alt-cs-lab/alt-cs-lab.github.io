@@ -6,7 +6,7 @@ weight = 5
 
 This is the homepage of the ALT+CS CS Education Reading Group.
 
-* **When**: Mondays at 1:30 PM (Spring 2024)
+* **When**: Mondays at **2:15 PM** (Spring 2024)
 * **Where**: ALT+CS Lab (DUE 2208) and via [Zoom](https://ksu.zoom.us/j/95100060366?pwd=dXBwcWlLWTNOcVd0T05Pay9KcFhtUT09)
 
 ## Schedule
