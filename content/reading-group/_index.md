@@ -13,6 +13,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 | Date | Presenter | Paper |
 |:-----|:----------|:------|
+| 2/19/2024 | Russ Feldhausen | [The Value of Time Extensions in Identifying Students Abilities]({{< ref "#S24-4" >}}) |
 | 2/5/2024 | Nathan Bean | [Arguments for and Approaches to Computing Education in Undergraduate Computer Science Programmes]({{< ref "#S24-3" >}}) |
 | 1/29/2024 | Friday James | [Sometimes It's Just Sloppiness - Studying Students' Programming Errors and Misconceptions]({{< ref "#S24-2" >}}) |
 | 1/22/2024 | Russ Feldhausen | [Exploring CS1 Student's Notions of Code Quality]({{< ref "#S24-1" >}})
@@ -65,7 +66,19 @@ ref "reading-group#F23-4">}})
 
 ## Spring 2024 Papers
 
+### 2/19/2024 - Chen & Ward (2023) {#S24-4}
+
+###### The Value of Time Extensions in Identifying Students Abilities
+
+* [Paper Link](https://dl.acm.org/doi/10.1145/3587102.3588847)
+
+**Abstract**
+
+> Instructors often grant students extensions or grace days to relax deadline constraints. However, researchers have yet to investigate the value of time extensions in identifying students' abilities and why students use them in computing education. Our study shows that scheduling conflicts and underestimation of the coursework were the top two reasons why students were late, providing the very first qualitative analysis results. By categorizing students who used and did not use cost-free time extensions, we found that students who used time extensions had a significantly lower assignment and exam grades than those who chose not to use them. We first observed this phenomenon when looking at grace day usages in a final-year programming course and validated the result by looking at the usage of extended lab time in a first-year programming course. This result suggests that offering a cost-free mechanism such as grace days or a time extension can provide a very early indicator of student abilities and those likely to need assistance.
+
 ### 2/5/2024 - Cutts, Kallia, Anderson, et. al (2023) {#S24-3}
+
+###### Arguments for and Approaches to Computing Education in Undergraduate Computer Science Programmes
 
 * [Paper Link](https://dl.acm.org/doi/10.1145/3623762.3633494)
 
