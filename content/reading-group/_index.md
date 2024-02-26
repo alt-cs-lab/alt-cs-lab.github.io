@@ -13,6 +13,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 | Date | Presenter | Paper |
 |:-----|:----------|:------|
+| 2/26/2024 | Nathan Bean | [A Combined Knowledge and Competency (CKC) Model for Computer Science Curricula]({{<ref "#S24-5">}})
 | 2/19/2024 | Russ Feldhausen | [The Value of Time Extensions in Identifying Students Abilities]({{< ref "#S24-4" >}}) |
 | 2/5/2024 | Nathan Bean | [Arguments for and Approaches to Computing Education in Undergraduate Computer Science Programmes]({{< ref "#S24-3" >}}) |
 | 1/29/2024 | Friday James | [Sometimes It's Just Sloppiness - Studying Students' Programming Errors and Misconceptions]({{< ref "#S24-2" >}}) |
@@ -63,6 +64,36 @@ ref "reading-group#F23-4">}})
   * [Running an Effective Reading Group](https://muratbuffalo.blogspot.com/2015/05/how-to-run-effective-paper-reading.html)
 
 {{% /expand %}}
+
+### 2/19/2024 - Kumar, Becker, Pias, et. al (2023) {#S24-5}
+
+###### A Combined Knowledge and Competency (CKC) Model for Computer Science Curricula
+
+* [Paper Link](https://dl.acm.org/doi/10.1145/3605215)
+
+**Abstract**
+
+> All prior curricular guidelines for computer science
+have used a knowledge model, which consists of
+knowledge areas, knowledge units within the knowledge
+areas, and learning outcomes for the topics within those
+knowledge units. More recently, competency models have
+been explored for curricular guidelines. A competency
+model consists of competency specifications that list the
+knowledge, skills and dispositions needed to complete
+tasks. Both knowledge models and competency models have
+their benefits and shortcomings. We propose a model for
+computer science curricular guidelines that synergistically
+combines knowledge and competency models, in particular,
+the knowledge model last proposed in CS2013 [1] and the
+CoLeaf competency model last proposed in an ITiCSE
+working group report [8,11], both modified to facilitate
+integration. The combined model called CKC emphasizes
+both ends of the learning continuum and facilitates teaching
+as well as evaluation. It provides both an epistemological
+and teleological perspective of computer science content.
+We provide instructions for designing computer science
+curricula using the CKC model.
 
 ## Spring 2024 Papers
 
