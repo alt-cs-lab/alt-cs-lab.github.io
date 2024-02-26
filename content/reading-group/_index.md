@@ -102,6 +102,7 @@ curricula using the CKC model.
 ###### The Value of Time Extensions in Identifying Students Abilities
 
 * [Paper Link](https://dl.acm.org/doi/10.1145/3587102.3588847)
+* [CS Curricula 2023](https://csed.acm.org/wp-content/uploads/2023/09/Version-Gamma.pdf)
 
 **Abstract**
 
