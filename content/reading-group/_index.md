@@ -13,7 +13,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 | Date | Presenter | Paper |
 |:-----|:----------|:------|
-| 3/4/2024 | Russ Feldhausen | [Choosing a Didactic Basis for an Instructional Video: What Are the Implications For Novice Programmers?]({{<ref "#S42-6">}})
+| 3/4/2024 | Russ Feldhausen | [Choosing a Didactic Basis for an Instructional Video: What Are the Implications For Novice Programmers?]({{<ref "#S24-6">}})
 | 2/26/2024 | Nathan Bean | [A Combined Knowledge and Competency (CKC) Model for Computer Science Curricula]({{<ref "#S24-5">}})
 | 2/19/2024 | Russ Feldhausen | [The Value of Time Extensions in Identifying Students Abilities]({{< ref "#S24-4" >}}) |
 | 2/5/2024 | Nathan Bean | [Arguments for and Approaches to Computing Education in Undergraduate Computer Science Programmes]({{< ref "#S24-3" >}}) |
