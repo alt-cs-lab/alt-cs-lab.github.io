@@ -19,8 +19,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 | 2/5/2024 | Nathan Bean | [Arguments for and Approaches to Computing Education in Undergraduate Computer Science Programmes]({{< ref "#S24-3" >}}) |
 | 1/29/2024 | Friday James | [Sometimes It's Just Sloppiness - Studying Students' Programming Errors and Misconceptions]({{< ref "#S24-2" >}}) |
 | 1/22/2024 | Russ Feldhausen | [Exploring CS1 Student's Notions of Code Quality]({{< ref "#S24-1" >}})
-| 10/4/2023 | Nathan Bean | [Using Programming to Express Mathematical Ideas]({{<
-ref "reading-group#F23-4">}})
+| 10/4/2023 | Nathan Bean | [Using Programming to Express Mathematical Ideas]({{<ref "reading-group#F23-4">}})
 | 9/13/2023 | Russ Feldhausen | [Engagement and Anonymity in Online Computer Science Course Forums]({{< ref "reading-group#F23-3" >}}) |
 | 9/6/2023 | Friday James | [Plagiarism Deterrence in CS1 Through Keystroke Data]({{< ref "reading-group#F23-2" >}}) |
 | 8/30/2023 | Nathan Bean | [Neo-Piagetian Theory as a Guide to Curriculum Analysis]({{< ref "reading-group#F23-1" >}}) |
