@@ -13,6 +13,7 @@ This is the homepage of the ALT+CS CS Education Reading Group.
 
 | Date | Presenter | Paper |
 |:-----|:----------|:------|
+| 3/4/2024 | Russ Feldhausen | [Choosing a Didactic Basis for an Instructional Video: What Are the Implications For Novice Programmers?]({{<ref "#S42-6">}})
 | 2/26/2024 | Nathan Bean | [A Combined Knowledge and Competency (CKC) Model for Computer Science Curricula]({{<ref "#S24-5">}})
 | 2/19/2024 | Russ Feldhausen | [The Value of Time Extensions in Identifying Students Abilities]({{< ref "#S24-4" >}}) |
 | 2/5/2024 | Nathan Bean | [Arguments for and Approaches to Computing Education in Undergraduate Computer Science Programmes]({{< ref "#S24-3" >}}) |
@@ -65,7 +66,19 @@ ref "reading-group#F23-4">}})
 
 {{% /expand %}}
 
-### 2/19/2024 - Kumar, Becker, Pias, et. al (2023) {#S24-5}
+## Spring 2024 Papers
+
+### 3/4/2024 - Esche & Weihe (2023) {#S24-6}
+
+###### Choosing a Didactic Basis for an Instructional Video: What Are the Implications For Novice Programmers?
+
+* [Paper Link](https://dl.acm.org/doi/10.1145/3587102.3588795)
+
+**Abstract**
+
+> Much work on instructional videos in computing education focuses on the overall impact and technical aspects of videos, such as motivation and length. However, it might be significant how the underlying pedagogical theory, the didactic basis, determines the delivery of the content. We conducted a randomized experiment to investigate the research question: How does the didactic basis of an instructional video affect code writing performance and self-efficacy given the basic skill of novice programmers? Our data included two cohorts of 133 and 428 CS1 students from the Fall semesters of 2021/22 and 2022/23, respectively. In cohort 1, videos based on language-sensitive teaching led to significantly better results in writing code in object orientation for novices with medium basic skills than videos based on worked examples. This result could not be replicated in cohort 2. We found no effect on novice self-efficacy in either cohort.
+
+### 2/26/2024 - Kumar, Becker, Pias, et. al (2023) {#S24-5}
 
 ###### A Combined Knowledge and Competency (CKC) Model for Computer Science Curricula
 
@@ -94,8 +107,6 @@ as well as evaluation. It provides both an epistemological
 and teleological perspective of computer science content.
 We provide instructions for designing computer science
 curricula using the CKC model.
-
-## Spring 2024 Papers
 
 ### 2/19/2024 - Chen & Ward (2023) {#S24-4}
 
